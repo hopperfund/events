@@ -141,7 +141,7 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 	- What you think this speaker will add to the event.
 	- What level they should pitch their talk at.
 - Leave plenty of time for back and forth. A lot of time - start making your dream list months in advance, and if possible, build relationships with people over coffees or at meet ups.
-- Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a creche), you'll have a backup plan already thought out and will be less likely to go for a man instead.
+- Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a crèche), you'll have a backup plan already thought out and will be less likely to go for a man instead.
 - Make sure it's clear that you're professional in your approach to AV. If you're a woman, standing in front of a room full of people, and a conference has an awful AV set up that you have to wrestle with, the crowd assumes it's because girls suck at IT. That's not a nice feeling. You can remove this anxiety by:
 	1. Having a great AV team who are good at this stuff.
 	2. Making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
@@ -270,15 +270,15 @@ Does the venue have room to support extra facilities like:
 
 - Speakers lounge.
 - Quiet/retreat space.
-- Creche.
+- Crèche.
 - Emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
 
 
-###Creche
+###Crèche
 
 Offering on-site childcare is becoming increasingly common. It makes your event a lot more accessible if you can offer to look after kids, especially under 5's, while talks are on.
 
-As far as we can establish, NZ Childcare Centre Legislation doesn't apply to one-off creches.\*
+As far as we can establish, NZ Childcare Centre Legislation doesn't apply to one-off crèches.\*
 
 Services that may help:
 
