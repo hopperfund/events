@@ -163,7 +163,7 @@ Here's some things you can try:
 - Build relationships with leaders in minority communities. 
 - Talk to Girl Geek Dinners, Gather Workshops, Rails Girls or other events. Their speakers, coaches and mentors can be great speakers for you.
 - Go to local meet ups, especially women-in-tech ones. Get to know them. 
-- Consider paying someone, or several people to do divesity outreach work for your event to encourage women and other minority groups to submit proposals to speak. 
+- Consider paying someone, or several people to do diversity outreach work for your event to encourage women and other minority groups to submit proposals to speak. 
 - Run an open FAQ session via Google Hangouts or similar.
 
 It's also really important that your CFP is really great.
@@ -225,7 +225,7 @@ This is incredibly important for attendees with non-binary gender identities.
 - At least some single-occupancy, gender-neutral bathrooms. 
 - This means no 'womens' and 'mens' designation, and no grouped waiting area. 
 - Ensure that the availability of these is clearly communicated. 
-- Ensure adequare disabled bathrooms.
+- Ensure adequate disabled bathrooms.
 
 ####Accessibility 
 
