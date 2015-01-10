@@ -385,7 +385,7 @@ However, staff should take immediate action to politely and calmly stop any pres
 
 You should also try to assign a person to watch all talks and also the conference hashtags and Twitter feeds. This person is responsible for monitoring talks and Twitter for potential issues, and ensuring any concerns raised are promptly responded to. The role of this person is not to enter into discussions on whether the conduct was right or wrong, merely to acknowledge any complaints and ensure they are immediately escalated to the official code of conduct point for investigation.
 
-Make sure this person understands that their job is not to get defensive. They should read this: http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse
+Make sure this person understands that [their job is not to get defensive](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse).
 
 ####Recommended response:
 
