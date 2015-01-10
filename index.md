@@ -479,3 +479,15 @@ If you ejected a speaker or a sponsor, you'll likely need to follow up with them
 Don't do this on the day, or even the day after. Give yourself a couple of days to get some sleep and calm down.
 
 Then, calmly email them a brief explanation about why you took the action you did. Include a link to your code of conduct.
+
+Resources:
+
+- [Ashe Dryden: Code of Conduct 101 and FAQ](http://www.ashedryden.com/blog/codes-of-conduct-101-faq)
+- [Sarah Milstein: Putting an End to Conferences Dominated by White Men](https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/)
+- [Geek Feminism Wiki: Code of Conduct and Policy Resources](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
+- [Ada Initiative: Example conference booklet](http://adainitiative.org/2012/10/freely-available-conference-booklet-template-designed-to-welcome-women/)
+- [Kiwicon Code of Conduct](https://kiwicon.org/faq/code-of-conduct/) and [FAQs](https://kiwicon.org/faq/#q9)
+- [Gather Code of Conduct](http://gathergather.co.nz/gatherly-behaviour/)
+- [Ashe Dryden: How to Not Make a Bad Situation Worse](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse)
+- [Kara Sowles: Alcohol and Inclusivity](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
+- [Lindsay Kuper: Your next conference should have real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/)
