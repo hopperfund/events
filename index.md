@@ -31,13 +31,15 @@ Make sure your event staff for the day are a mix of genders (and ideally races t
 
 Before you start, it's important to define what success looks like for your event. This doesn't have to be something you share externally, although it can be a good way of holding yourself accountable for improvement. Understand the potential audience for your event - what does the professional and student workforce look like in terms of diversity? What were the stats from previous events for both speakers and attendees, and what do you want to achieve this time?
 
-Check out this data from WikiNZ on diversity in tech occupations in NZ from the 2013 census. http://wikinewzealand.org/?graph=000601
+Check out [this data from WikiNZ](http://wikinewzealand.org/?graph=000601) on diversity in tech occupations in NZ from the 2013 census.
 
 You can download the source data to refine it more for your audience. As census data, it is, of course, self-categorised, so be aware of any biases that may arise, but it may be useful in helping you understand your potential audience.
 
 ###Ask for help
 
-Most communities are willing to help if you ask early in your process, whether that's taking a look over your plans to see if there's any obvious red-flags, or by helping you with outreach to access a more diverse speaker set. Be aware that some of these people are asked for help a lot, and generally most people expect this to be free. Consider offering to recompense them in some way.
+Most communities are willing to help if you ask early in your process, whether that's taking a look over your plans to see if there's any obvious red-flags, or by helping you with outreach to access a more diverse speaker set. 
+
+> Some of these people are asked for help a lot, and generally most people expect this to be free. Consider offering to recompense them in some way.
 
 ###Think about ticketing
 
@@ -53,14 +55,14 @@ There are some creative ways you can make your event more accessible:
 
 ###Your T-shirts
 
-T-shirts are one of the most beloved parts of event swag if they are done right. They're a walking advertisement for how much people love your event.
+T-shirts are hugely popular event swag. They're a walking advertisement for how much people love your event. However, they're also really awful if not done well - poorly fitted shirts in inadequate size ranges exclude attendees.
 
-Except, they are so often not. Here's some basics:
+Here's some basics:
 
-- Offer men's and women's style shirts. Never do unisex ones. Unisex actually means mens.
-- But call them 'straight fit' and 'curvy fit' because not all men want men's shirts and not all women want women's shirts.
-- Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own, but don't skip it.
-- Offer as wide a range of shirts as possible, even if it means working with 2 suppliers to extend the range into larger sizes. It is really, really hard to find women's plus size tees, but [these people have some](http://www.wholesaletshirtsnz.com/category/ladies-womens-t-shirts-auckland)
+- Offer mens and womens style shirts. Never do unisex ones. Unisex actually means mens.
+- Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want mens shirts and not all women want womens shirts.
+- Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own. Don't skip it.
+- Offer as wide a range of shirts as possible, even if it means working with 2 suppliers to extend the range into larger sizes. It is really hard to find women's plus size tees, but [these people have some](http://www.wholesaletshirtsnz.com/category/ladies-womens-t-shirts-auckland)
 - If you can't offer a full range of sizes, include a 'no-shirt' option. No, women don't want another men's t-shirt as a nightie.
 - Consider your print design. Women and men have different body shapes, and some designs are just plain bad when placed on a bust, including:
 	- Anything with potential to be a double-entendre
@@ -75,8 +77,9 @@ Conferences are big events, and can be a bit overwhelming. Sometimes, arranging 
 Some events that may work well:
 
 - A Girl Geek Dinners event the same week. Talk to [@ggdnz](https://twitter.com/ggdnz)
-- A partner learn-to-code event, like Rails Girls.
+- A partner learn-to-code event, like Rails Girls Wellington((https://twitter.com/railsgirlswgtn) or Auckland(https://twitter.com/railsgirlsakl).
 - A pre-conference breakfast women's meet-up at a local café. You can add an option for this on the registration form, and then make a group table booking, or simply set up a separate meetup booking page.
+- Offer a new attendee meet-and-greet.
 
 ###Speakers
 
@@ -84,32 +87,52 @@ If you want a diverse audience, you need to start with what you're selling them.
 
 Aim for a diverse line up, and not just gender diversity. Ideally, try for 50/50 gender diversity, but also consider racial diversity, age diversity and other forms of diversity. Different perspectives are important, not just for appearances sake, but because they can truly add to your event, and make the experience richer for all attendees.
 
-Be prepared for arguments from people who will tell you that you're diluting your quality for the sake of appearance. These people are wrong. All you're doing is broadening the pool of speakers you're considering to counter the natural advantages white male speakers gain from existing networks. There are many, many talented speakers who are not white men. You're doing your audience a favour by not looking at the same pool of speakers everyone else does.
+Be prepared for arguments from people who will tell you that you're diluting your quality for the sake of appearance. These people are wrong. 
+
+You are broadening the pool of speakers you're considering to counter the natural advantages white male speakers gain from existing networks. There are many, many talented speakers who are not white men. You're doing your audience a favour by not looking at the same pool of speakers everyone else does.
 
 > What not to do: Release your all-white, all-male speaker line up, and when people call you out on your lack of diversity, approach a couple of women at the last minute, and then blame them when they turn you down.
 
+####Selection Methods
+
 Different events choose speakers using different methods. Generally, you'll either be hand-picking speakers, or using a CFP, or a combination of the two.
 
-Before doing anything else, stop and go and read this by Sarah Milstein, who is doing this exceptionally well: http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/
+Before doing anything else, stop and go and [read this by Sarah Milstein, who is doing this exceptionally well](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/).
+
+You probably didn't click the link, so here's the cliff notes:
+
+1. As a leader, commit yourself to improving your selection process
+2. Be deeply transparent.
+3. Look beyond the usual suspects. 
+4. Offer speaker training.
+5. Request help.
+6. Approach individual people in your under-represented groups. 
+7. Have a farm system. 
+8. Save slots — as many as half — for people you find later in the process.
+9. Take chances. 
 
 I can't highlight enough the important of transparency. People respect honesty, and yet it's one of the most frightening things for us to do when running an event or a business. Be honest if you haven't done well at this in the past. Be honest about what you're trying to do to get better, and about the mistakes you'll make along the way (you'll make them, we all do).
 
-Important:
-
-- Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great to offer the option of donating this back into a scholarship pool, for example.
+> **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great to offer the option of donating this back into a scholarship pool, for example.
 
 ####Hand-picking speakers
 
 In theory, hand-picking speakers should be easy, right? Write down a list of people you want. Make it half men, half women, and make sure it's not all white folks. In reality, it's always more complicated than that. People will always decline for myriad reasons, but here's some things to consider:
 
-- Impostor syndrome is a real thing.
+- Impostor syndrome. [It's a real thing](https://counseling.caltech.edu/general/InfoandResources/Impostor), and it's important to understand.
 - A surprising number of women who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
-- Like the rest of the tech industry, there's often less visible/prominent women speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another women if they cannot speak, or they are women's speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
-- Consider offering speaker coaching in your initial email, either remotely, or in person, or a combination of both.    
-- Make sure you include a clear outline of what your event is about - who the audience is, what you hope they'll get out of the day, what you hope this speaker will bring to the event, what level they should pitch their talk at.
+- There's often less visible/prominent women speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another women if they cannot speak, or they are women's speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
+- Offer speaker coaching in your initial email, either remotely, or in person, or a combination of both.   
+- Include a clear outline of what your event is about:
+	- Who is your audience.
+	- What do you want them to get out of the day.
+	- What you think this speaker will add to the event.
+	- What level they should pitch their talk at.
 - Leave plenty of time for back and forth. A lot of time - start making your dream list months in advance, and if possible, build relationships with people over coffees or at meet ups.
-- Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a creche), you'll have a backup plan already thought out and will be less likely to just ask a dude.
-- Make sure it's clear that you're professional in your approach to AV. If you're a woman, standing in front of a room full of people, and a conference has an awful AV set up that you have to wrestle with, the crowd assumes it's because girls suck at IT. That's not a nice feeling. You can remove this anxiety by a) having a great AV team who are good at this stuff and b) making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
+- Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a creche), you'll have a backup plan already thought out and will be less likely to go for a man instead.
+- Make sure it's clear that you're professional in your approach to AV. If you're a woman, standing in front of a room full of people, and a conference has an awful AV set up that you have to wrestle with, the crowd assumes it's because girls suck at IT. That's not a nice feeling. You can remove this anxiety by:
+	1) having a great AV team who are good at this stuff
+	2) making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
 
 ####Running a CFP
 
@@ -153,7 +176,7 @@ Include:
 - A contact point for questions. If your CFP is good enough, you hopefully won't get as many, but this can help a lot.
 - Whether you have speaker mentoring available.
 
-Get someone who has never attended your conference to read your CFP. They don't need to even work in the same industry - sometimes that's an advantage. See if they understand what you're looking for and can explain back to you in clear terms what they think you expect your applicants to do. If they can't, you've still got some work to do.
+Get someone who has never attended your conference to read your CFP. They don't need to even work in the same industry. See if they understand what you're looking for and can explain back to you in clear terms what they think you expect your applicants to do. If they can't, you've still got some work to do.
  
 Remember, submitting to a CFP can be a lot of work and can be daunting, especially for someone who has not spoken a lot. Respect their time and make your requirements clear. This will also save you time by improving the quality of applications.
 
@@ -181,19 +204,62 @@ The conference environment, from the venue, to food, to the atmosphere, is a hug
 
 This can be a hard one, as there are many other factors to weigh in - everything from cost to availability and more.
 
-When you're assessing venues, here's a checklist of things to consider which can impact on how welcoming your event is to marginalised groups:
+When you're assessing venues, here's a checklist of things to consider which can impact on how welcoming your event is to marginalised groups.
 
-- **Bathrooms**: Ideally, look for a venue that provides at least some single-occupancy, gender-neutral bathrooms. This means no 'womens' and 'mens' designation, and no grouped waiting area. Ensure that the availability of these is clearly communicated. This is incredibly important for attendees with non-binary gender identities.
-- **Accessibility**: Your venue needs to be accessible to people in wheelchairs, on crutches, or with other physical disabilities. Many venues state that they are 'accessible', but the accessible route provides a degraded experience that is not communicated or factored into event planning. You need to ask to be shown the accessible access-ways, and walk through the event experience from that perspective - ensure they are unimpeded (unlocked, clear etc). This includes any related events, like drinks/after-parties. Is there a suitable amount of wheelchair-friendly seating space? Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. Is there enough seating in break-out spaces for those who are pregnant or tire easily? Consider whether speakers can access the stage. If you don't think this is important, stop and read this: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences. (On the day, there are more steps you should take to improve accessibility - see the event delivery phase)
-- **In-house catering**: If the venue requires you to use in-house catering, check if they can provide for dietary requirements in an acceptable way. This means catering to people with coeliac disease and other allergies, vegetarians, vegans, religious needs, including halal and kosher, and more. Check the food-service plans - it's much harder to feed people with dietary needs if wait-staff are taking food around a room. If you can't cater for these, let the attendees know as soon as possible, and consider refunding a portion of the ticket cost. Help them by identifying local restaurants and food places that cater for their dietary requirements, and consider offering them access to a fridge on-site to store their own food.
-- **Deaf access**: Does anything in your venue preclude you from catering to Deaf attendees? Ideally, you need to be able to: 
-	- Offer NZSL translation. 
-	- Support this with adequate stage space/technical infrastructure. 
-	- Support wireless headphones for the sound system.
-	- Consider also people with intersecting disabilities (e.g. Deaf and wheelchair access). Can the venue support this?
-	- Offer printed or digital copies of slides to these attendees. Often, they'll miss the slide while watching the sign translation.
-	- [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/)
-- **Room for extra facilities**: Does the venue have room to support extra facilities like a speakers lounge, quiet/retreat space and a creche? These are becoming important aspects of a successful/welcoming event. You'll also need a space to use as an emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
+####Bathrooms
+
+This is incredibly important for attendees with non-binary gender identities.
+
+- At least some single-occupancy, gender-neutral bathrooms. 
+- This means no 'womens' and 'mens' designation, and no grouped waiting area. 
+- Ensure that the availability of these is clearly communicated. 
+- Ensure adequare disabled bathrooms.
+
+####Accessibility 
+
+Your venue needs to be accessible to people in wheelchairs, on crutches, or with other physical disabilities. 
+
+Many venues state that they are 'accessible', but the accessible route provides a degraded experience that is not communicated or factored into event planning. You need to:
+
+- Ask to be shown the accessible access-ways
+- Walk through the event experience from that perspective - ensure they are unimpeded (unlocked, clear etc). 
+- This includes any related events, like drinks/after-parties. 
+- Check if there a suitable amount of wheelchair-friendly seating space both in and out of the auditoriums.
+- Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. 
+- Check if there enough seating in break-out spaces for those who are pregnant or tire easily? 
+- Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
+
+####Catering
+
+Check if they can provide for dietary requirements in an acceptable way. This means: 
+- Catering to people with coeliac disease and other allergies, vegetarians, vegans, religious needs, including halal and kosher, and more. 
+- Check the food-service plans - it's much harder to feed people with dietary needs if wait-staff are taking food around a room. 
+- If food is served buffet-style, try give people with dietary requirements access first. Often, serving implements get messed up and cross-contamination occurs, or the only food they can eat is consumed by other people.
+- If you can't cater for these, let the attendees know as soon as possible, and consider refunding a portion of the ticket cost. 
+- Help them by identifying local restaurants and food places that cater for their dietary requirements, and consider offering them access to a fridge on-site to store their own food.
+- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. Imagine your event at maximum chaos - you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
+
+####Deaf access
+
+Does anything in your venue preclude you from catering to Deaf attendees? Ideally, you need to be able to: 
+
+- Offer NZSL translation. 
+- Support this with adequate stage space/technical infrastructure. 
+- Support wireless headphones for the sound system.
+- Consider also people with intersecting disabilities (e.g. Deaf and wheelchair access). Can the venue support this?
+- Offer printed or digital copies of slides to these attendees. Often, they'll miss the slide while watching the sign translation.
+- [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/)
+
+
+####Room for extra facilities 
+
+Does the venue have room to support extra facilities like: 
+
+- Speakers lounge
+- Quiet/retreat space
+- Creche
+- Emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
+
 
 ###Creche
 
@@ -208,11 +274,6 @@ Services that may help:
 - Contact us if you need help with toy hire. We may be able to assist.
 - http://www.fabfaces.co.nz - face painting, balloon twisting and character entertainment for children.
 
-###Catering
-
-- Try and cater for all dietary requirements, but if you can't, communicate this to affected people up-front. If possible, try and highlight nearby places that serve food they can eat.
-- If food is served buffet-style, try give people with dietary requirements access first. Often, serving implements get messed up and cross-contamination occurs, or the only food they can eat is consumed by other people.
-- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. Imagine your event at maximum chaos - you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
 
 ###Alcohol
 
@@ -256,7 +317,7 @@ Your staff should all be trained on the basics, including:
 - managing your code of conduct
 - looking after the needs of any attendees who have special requirements, such as disabilities or different food requests.
 
-###Code of Conduct 
+##Code of Conduct 
 
 _This section shamelessly borrows from the excellent folks at the Geek Feminism Wiki_
 
@@ -314,11 +375,9 @@ In general, you should designate a person/people as the official code of conduct
 
 You should assign a room as a safe room where anyone in distress or who wants to discuss a confidential code of conduct-related manner can be taken. This room might also double as a first-aid room, but should not be your general "quiet room", as privacy is important. Ideally, it should be separate from the main/busy conference area, and have minimal windows, or curtained windows.
 
-####General Staff Training
+###General Staff Training
 
-<section needed on spotting issues>
-
-**Presentation issues**
+####Presentation issues
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. You, or a staff member, may like to acknowledge the issue at the conclusion of the talk. This can be as simple as "I'm sorry for the inappropriate comment in that presentation. I'd like to remind everyone of our code of conduct".
 
@@ -328,11 +387,11 @@ You should also try to assign a person to watch all talks and also the conferenc
 
 Make sure this person understands that their job is not to get defensive. They should read this: http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse
 
-Recommended response:
+####Recommended response:
 
 "Thanks for letting us know. We'll follow this up."
 
-**Receiving a report**
+####Receiving a report
 
 Anyone in your team must be able to take a report from a conference attendee. Reports must be taken for all incidents, regardless of the level of details the complainant is able to provide (including not being able to identify offending parties)
 
@@ -360,13 +419,13 @@ Once the report has been taken, your team member should:
 
 > **Important**: Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
-**Issuing verbal warnings**
+####Issuing verbal warnings
 
 Every member of your team has ownership for conference safety and should feel confident issuing warnings to attendees, presenters, or other staff members for inappropriate behaviour.
 
 All verbal warnings should also be reported to a central location as soon as possible, typically via text message or email.
 
-**Documenting a reported incident**
+####Documenting a reported incident
 
 A report should be made of any breaches of the code of conduct, whether they are reported by attendees, or a result of verbal warnings issued by staff for observed behaviour. 
 
