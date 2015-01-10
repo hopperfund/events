@@ -111,7 +111,7 @@ Different events choose speakers using different methods. Generally, you'll eith
 
 Before doing anything else, stop and go and [read this by Sarah Milstein, who is doing this exceptionally well](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/).
 
-You probably didn't click the link, so here's the cliff notes:
+You probably didn't click the link, so here's the Cliff's Notes:
 
 1. As a leader, commit yourself to improving your selection process.
 2. Be deeply transparent.
