@@ -23,7 +23,7 @@ Both are important - if women and other minority groups don't know you've change
 
 Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and its ongoing success.
 
-##Before your event - the preparation phase
+##Proper Preparation Prevents...
 
 ###Your Organising Team
 
@@ -143,7 +143,6 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 - Leave plenty of time for back and forth. A lot of time - start making your dream list months in advance, and if possible, build relationships with people over coffees or at meet ups.
 - Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a creche), you'll have a backup plan already thought out and will be less likely to go for a man instead.
 - Make sure it's clear that you're professional in your approach to AV. If you're a woman, standing in front of a room full of people, and a conference has an awful AV set up that you have to wrestle with, the crowd assumes it's because girls suck at IT. That's not a nice feeling. You can remove this anxiety by:
-
 	1. Having a great AV team who are good at this stuff
 	2. Making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
 
