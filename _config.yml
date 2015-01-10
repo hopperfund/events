@@ -1,7 +1,7 @@
 # Site settings
-title: Tech Conference Diversity: Do Better
-tag_text: Conference Diversity
-description: Tech conference diversity is important. Learn how to make your event better.
+title: Solo, a Jekyll Theme
+tag_text: Solo
+description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
 
 # Build settings
 markdown: kramdown
