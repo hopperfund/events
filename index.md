@@ -33,7 +33,15 @@ Make sure your event staff for the day are a mix of genders (and ideally races t
 
 ###Set a target
 
-Before you start, it's important to define what success looks like for your event. This doesn't have to be something you share externally, although it can be a good way of holding yourself accountable for improvement. Understand the potential audience for your event - what does the professional and student workforce look like in terms of diversity? What were the stats from previous events for both speakers and attendees, and what do you want to achieve this time?
+Before you start, it's important to define what success looks like for your event. This doesn't have to be something you share externally, although it can be a good way of holding yourself accountable for improvement. 
+
+Understand the potential audience for your event: 
+
+- What does the professional and student workforce look like in terms of diversity? 
+- What were the stats from previous events for both speakers and attendees
+- What do you want to achieve this time?
+
+Sometimes it can be hard to assess this data, but you may be able to get an indication of previous gender splits from t-shirt selections.
 
 Check out [this data from WikiNZ](http://wikinewzealand.org/?graph=000601) on diversity in tech occupations in NZ from the 2013 census.
 
