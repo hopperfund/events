@@ -505,4 +505,9 @@ Resources:
 <hr>
 
 Need help? Email us at <hello@hopper.org.nz>
+
+<hr>
+
+See something that needs changing or that should be added? [This is an open-source project](https://github.com/hopperfund/events).
+
 This site is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
