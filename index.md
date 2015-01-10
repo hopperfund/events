@@ -278,7 +278,7 @@ Does the venue have room to support extra facilities like:
 
 Offering on-site childcare is becoming increasingly common. It makes your event a lot more accessible if you can offer to look after kids, especially under 5's, while talks are on.
 
-[TBC] NZ Childcare Centre Legislation doesn't apply to one-off creches.
+As far as we can establish, NZ Childcare Centre Legislation doesn't apply to one-off creches.\*
 
 Services that may help:
 
@@ -287,6 +287,7 @@ Services that may help:
 - Contact us at <hello@hopper.org.nz> if you need help with toy supply/hire. We may be able to assist.
 - [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
 
+\*We're not lawyers, so do check with one of them.
 
 ###Alcohol
 
