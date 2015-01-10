@@ -1,5 +1,5 @@
-# Solo 
+# Conference Diversity Guide
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+The [Hopper Conference Diversity Guide] is a guide for New Zealand conference and event organisers to help them run more welcoming events for a more diverse audience.
 
-### [Demo & Documentation &rarr;](http://solo.chibi.io)
+This repository is maintained by <hello@hopper.org.nz>
