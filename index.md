@@ -238,7 +238,7 @@ Many venues state that they are 'accessible', but the accessible route provides 
 - This includes any related events, like drinks/after-parties. 
 - Check if there a suitable amount of wheelchair-friendly seating space both in and out of the auditoriums.
 - Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. 
-- Check if there enough seating in break-out spaces for those who are pregnant or tire easily? 
+- Check if there enough seating in break-out spaces for those who are pregnant or tire easily. 
 - Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
 
 ####Catering
