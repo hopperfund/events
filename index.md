@@ -331,7 +331,9 @@ Your staff should all be trained on the basics, including:
 
 _This section shamelessly borrows from the excellent folks at the Geek Feminism Wiki_
 
-For some people, a code of conduct is a bit of a swear word. Many people have the illusion that the purpose of a code of conduct is to prevent any instance of bad behaviour at the event. The myth also exists that events that have never had an issue do not need a code of conduct, and to have one implies the event has problems.
+For some people, a code of conduct is a bit of a swear word. Many people have the illusion that the purpose of a code of conduct is to prevent any instance of bad behaviour at the event. 
+
+Some people also believe that if they have never had an issue reported at their event, they do not need a code of conduct, and to have one implies the event has problems. 
 
 A code of conduct does neither of these things. It exists to:
 
@@ -339,6 +341,7 @@ A code of conduct does neither of these things. It exists to:
 - Send a clear message to marginalised groups, including women, that their presence is welcome and you are thinking of their safety and comfort.
 - Give you a framework to train your staff and volunteers around.
 - Highlight channels to report issues on should they arise.
+- Build trust that you will support women or other complainants if an issue did arise.
 
 Having a code of conduct doesn't guarantee good behaviour, but it tells people you care, and that they can come to you with a problem and trust you to deal with it appropriately.
 
