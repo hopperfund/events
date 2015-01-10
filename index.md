@@ -7,7 +7,7 @@ layout: default
 
 We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, LGBTQI, and disabled groups. Right now, we're doing a bad job of this.
 
-Events in our industry are often unpleasant, sometimes to the point of being hostile to women.
+Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
 
 If you're running an event in the technology space (or any STEM area), you have a duty to our community to make your event as welcoming as possible to all of our community.
 
