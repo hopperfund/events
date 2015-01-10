@@ -46,11 +46,11 @@ h1 {
 }
 
 h2 {
-	color: #35586C;
+	color: #539DC2;
 }
 
-h3 {
-	color: #607B8B;
+h3, h4, h5 {
+	color: #38B0DE;
 }
 
 @media (min-width: 30rem) {
