@@ -281,10 +281,10 @@ Offering on-site childcare is becoming increasingly common. It makes your event 
 
 Services that may help:
 
-- http://www.randstad.co.nz - relief teacher agency
-- Or, ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
+- [Relief teacher agency](http://www.randstad.co.nz)
+- Ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
 - Contact us if you need help with toy hire. We may be able to assist.
-- http://www.fabfaces.co.nz - face painting, balloon twisting and character entertainment for children.
+- [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
 
 
 ###Alcohol
