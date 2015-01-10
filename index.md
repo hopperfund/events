@@ -77,7 +77,7 @@ Conferences are big events, and can be a bit overwhelming. Sometimes, arranging 
 Some events that may work well:
 
 - A Girl Geek Dinners event the same week. Talk to [@ggdnz](https://twitter.com/ggdnz)
-- A partner learn-to-code event, like Rails Girls Wellington((https://twitter.com/railsgirlswgtn) or Auckland(https://twitter.com/railsgirlsakl).
+- A partner learn-to-code event, like [Rails Girls Wellington](https://twitter.com/railsgirlswgtn) or [Auckland](https://twitter.com/railsgirlsakl).
 - A pre-conference breakfast women's meet-up at a local café. You can add an option for this on the registration form, and then make a group table booking, or simply set up a separate meetup booking page.
 - Offer a new attendee meet-and-greet.
 
