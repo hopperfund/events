@@ -244,12 +244,13 @@ Many venues state that they are 'accessible', but the accessible route provides 
 ####Catering
 
 Check if they can provide for dietary requirements in an acceptable way. This means: 
+
 - Catering to people with coeliac disease and other allergies, vegetarians, vegans, religious needs, including halal and kosher, and more. 
 - Check the food-service plans - it's much harder to feed people with dietary needs if wait-staff are taking food around a room. 
 - If food is served buffet-style, try give people with dietary requirements access first. Often, serving implements get messed up and cross-contamination occurs, or the only food they can eat is consumed by other people.
 - If you can't cater for these, let the attendees know as soon as possible, and consider refunding a portion of the ticket cost. 
 - Help them by identifying local restaurants and food places that cater for their dietary requirements, and consider offering them access to a fridge on-site to store their own food.
-- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. Imagine your event at maximum chaos - you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
+- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. Imagine your event at maximum chaos; you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
 
 ####Deaf access
 
