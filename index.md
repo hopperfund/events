@@ -283,7 +283,7 @@ Services that may help:
 
 - [Relief teacher agency](http://www.randstad.co.nz)
 - Ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
-- Contact us if you need help with toy hire. We may be able to assist.
+- Contact us at <hello@hopper.org.nz> if you need help with toy supply/hire. We may be able to assist.
 - [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
 
 
