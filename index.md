@@ -163,7 +163,7 @@ Here's some things you can try:
 - Build relationships with leaders in minority communities. 
 - Talk to Girl Geek Dinners, Gather Workshops, Rails Girls or other events. Their speakers, coaches and mentors can be great speakers for you.
 - Go to local meet ups, especially women-in-tech ones. Get to know them. 
-- Consider paying someone, or several people to do divesity outreach work for your event to encourage women and other minority groups to submit proposals to speak. 
+- Consider paying someone, or several people to do diversity outreach work for your event to encourage women and other minority groups to submit proposals to speak. 
 - Run an open FAQ session via Google Hangouts or similar.
 
 It's also really important that your CFP is really great.
@@ -225,7 +225,7 @@ This is incredibly important for attendees with non-binary gender identities.
 - At least some single-occupancy, gender-neutral bathrooms. 
 - This means no 'womens' and 'mens' designation, and no grouped waiting area. 
 - Ensure that the availability of these is clearly communicated. 
-- Ensure adequare disabled bathrooms.
+- Ensure adequate disabled bathrooms.
 
 ####Accessibility 
 
@@ -281,10 +281,10 @@ Offering on-site childcare is becoming increasingly common. It makes your event 
 
 Services that may help:
 
-- http://www.randstad.co.nz - relief teacher agency
-- Or, ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
+- [Relief teacher agency](http://www.randstad.co.nz)
+- Ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
 - Contact us if you need help with toy hire. We may be able to assist.
-- http://www.fabfaces.co.nz - face painting, balloon twisting and character entertainment for children.
+- [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
 
 
 ###Alcohol
@@ -309,10 +309,6 @@ To make your event more welcoming:
 - Consider the venue for after parties if alcohol is involved. Is it close to public transport routes?
 - Make sure there are safe ways for attendees to get home (organise cabs etc)
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
-
-Links: 
-
-- [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options?utm_content=buffer933cc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ###Your team
 
