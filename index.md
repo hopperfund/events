@@ -488,6 +488,8 @@ Don't do this on the day, or even the day after. Give yourself a couple of days 
 
 Then, calmly email them a brief explanation about why you took the action you did. Include a link to your code of conduct.
 
+<hr>
+
 Resources:
 
 - [Ashe Dryden: Code of Conduct 101 and FAQ](http://www.ashedryden.com/blog/codes-of-conduct-101-faq)
@@ -499,3 +501,8 @@ Resources:
 - [Ashe Dryden: How to Not Make a Bad Situation Worse](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse)
 - [Kara Sowles: Alcohol and Inclusivity](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
 - [Lindsay Kuper: Your next conference should have real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/)
+
+<hr>
+
+Need help? Email us at <hello@hopper.org.nz>
+This site is licensed under the <Creative Commons Attribution 3.0 Unported License>.
