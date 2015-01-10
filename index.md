@@ -310,10 +310,6 @@ To make your event more welcoming:
 - Make sure there are safe ways for attendees to get home (organise cabs etc)
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
 
-Links: 
-
-- [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options?utm_content=buffer933cc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
 ###Your team
 
 Your team are an incredibly important part of how welcoming your event is. You should aim for your team on the day to be representative of your intended audience - in other words, you want a diverse team, as well as a diverse audience.
