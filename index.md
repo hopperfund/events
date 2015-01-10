@@ -5,7 +5,11 @@ layout: default
 
 ##Why should you care?
 
-We want and need as many smart people as possible working in technology. If you're running an event in the technology space (or any STEM area), you have a duty to our community to make your event as welcoming as possible to all of our community.
+We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, LGBTQI, and disabled groups. Right now, we're doing a bad job of this.
+
+Events in our industry are often unpleasant, sometimes to the point of being hostile to women.
+
+If you're running an event in the technology space (or any STEM area), you have a duty to our community to make your event as welcoming as possible to all of our community.
 
 ##How do you fix it?
 
@@ -15,7 +19,7 @@ It's important to not leave this stuff until too late, but even if you have, the
 
 There's two aspects to this: Making the changes to your event, both in the preparation and on-the-day delivery, and communicating with your attendees/potential attendees that you've made the changes to your event. 
 
-Both are important - if people don't know you've changed, or can't see a clear signal of your intent, they're likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
+Both are important - if women and other minority groups don't know you've changed, or can't see a clear signal of your intent, they're likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
 
 Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and it's ongoing success.
 
@@ -29,7 +33,15 @@ Make sure your event staff for the day are a mix of genders (and ideally races t
 
 ###Set a target
 
-Before you start, it's important to define what success looks like for your event. This doesn't have to be something you share externally, although it can be a good way of holding yourself accountable for improvement. Understand the potential audience for your event - what does the professional and student workforce look like in terms of diversity? What were the stats from previous events for both speakers and attendees, and what do you want to achieve this time?
+Before you start, it's important to define what success looks like for your event. This doesn't have to be something you share externally, although it can be a good way of holding yourself accountable for improvement. 
+
+Understand the potential audience for your event: 
+
+- What does the professional and student workforce look like in terms of diversity? 
+- What were the stats from previous events for both speakers and attendees
+- What do you want to achieve this time?
+
+Sometimes it can be hard to assess this data, but you may be able to get an indication of previous gender splits from t-shirt selections.
 
 Check out [this data from WikiNZ](http://wikinewzealand.org/?graph=000601) on diversity in tech occupations in NZ from the 2013 census.
 
