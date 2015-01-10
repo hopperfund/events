@@ -505,4 +505,4 @@ Resources:
 <hr>
 
 Need help? Email us at <hello@hopper.org.nz>
-This site is licensed under the <Creative Commons Attribution 3.0 Unported License>.
+This site is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
