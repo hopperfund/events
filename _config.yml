@@ -1,0 +1,9 @@
+# Site settings
+title: Tech Conference Diversity 101: Do Better
+tag_text: Conference Diversity
+description: Tech conference diversity is important. Learn how to make your event better.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
