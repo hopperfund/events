@@ -51,7 +51,7 @@ You can download the source data to refine it more for your audience. As census 
 
 Most communities are willing to help if you ask early in your process, whether that's taking a look over your plans to see if there's any obvious red-flags, or by helping you with outreach to access a more diverse speaker set. 
 
-> Some of these people are asked for help a lot, and generally most people expect this to be free. Consider offering to recompense them in some way.
+> Some of these people are asked for help a lot, and generally most organisers expect this to be free. Consider offering to recompense them in some way.
 
 ###Think about ticketing
 
