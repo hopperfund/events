@@ -38,7 +38,7 @@ Before you start, it's important to define what success looks like for your even
 Understand the potential audience for your event: 
 
 - What does the professional and student workforce look like in terms of diversity? 
-- What were the stats from previous events for both speakers and attendees
+- What were the stats from previous events for both speakers and attendees.
 - What do you want to achieve this time?
 
 Sometimes it can be hard to assess this data, but you may be able to get an indication of previous gender splits from t-shirt selections.
@@ -60,10 +60,10 @@ Pricing and ticketing is hard. Bottom line: you have to cover your costs. Howeve
 There are some creative ways you can make your event more accessible:
 
 - Partner with a sponsor/sponsors to offer scholarships to help diverse attendees. This could cover tickets, accommodation, transport, or any combination of these.
-- Allow individual sponsorship
+- Allow individual sponsorship.
 	- 1 + 1 tickets (buy a ticket for you, and a ticket for us to allocate to a women or attendee from another marginalised group.
 	- Offer 'pay more if you want' to chip in to help cover minority speaker/attendee costs.
-- Offer student tickets (student must present valid ID at registration desk)
+- Offer student tickets (student must present valid ID at registration desk).
 
 ###Your T-shirts
 
@@ -74,12 +74,12 @@ Here's some basics:
 - Offer mens and womens style shirts. Never do unisex ones. Unisex actually means mens.
 - Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want mens shirts and not all women want womens shirts.
 - Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own. Don't skip it.
-- Offer as wide a range of shirts as possible, even if it means working with 2 suppliers to extend the range into larger sizes. It is really hard to find women's plus size tees, but [these people have some](http://www.wholesaletshirtsnz.com/category/ladies-womens-t-shirts-auckland)
+- Offer as wide a range of shirts as possible, even if it means working with 2 suppliers to extend the range into larger sizes. It is really hard to find women's plus size tees, but [these people have some](http://www.wholesaletshirtsnz.com/category/ladies-womens-t-shirts-auckland).
 - If you can't offer a full range of sizes, include a 'no-shirt' option. No, women don't want another men's t-shirt as a nightie.
 - Consider your print design. Women and men have different body shapes, and some designs are just plain bad when placed on a bust, including:
-	- Anything with potential to be a double-entendre
-	- Wording that encourages people to stare closely at bust level
-	- Vertical lines that distort when placed over a larger bust
+	- Anything with potential to be a double-entendre.
+	- Wording that encourages people to stare closely at bust level.
+	- Vertical lines that distort when placed over a larger bust.
 	- Designs that sit too low so fall on underside of bust.
 
 ###Partner events
@@ -88,7 +88,7 @@ Conferences are big events, and can be a bit overwhelming. Sometimes, arranging 
 
 Some events that may work well:
 
-- A Girl Geek Dinners event the same week. Talk to [@ggdnz](https://twitter.com/ggdnz)
+- A Girl Geek Dinners event the same week. Talk to [@ggdnz](https://twitter.com/ggdnz).
 - A partner learn-to-code event, like [Rails Girls Wellington](https://twitter.com/railsgirlswgtn) or [Auckland](https://twitter.com/railsgirlsakl).
 - A pre-conference breakfast women's meet-up at a local café. You can add an option for this on the registration form, and then make a group table booking, or simply set up a separate meetup booking page.
 - Offer a new attendee meet-and-greet.
@@ -113,7 +113,7 @@ Before doing anything else, stop and go and [read this by Sarah Milstein, who is
 
 You probably didn't click the link, so here's the cliff notes:
 
-1. As a leader, commit yourself to improving your selection process
+1. As a leader, commit yourself to improving your selection process.
 2. Be deeply transparent.
 3. Look beyond the usual suspects. 
 4. Offer speaker training.
@@ -143,7 +143,7 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 - Leave plenty of time for back and forth. A lot of time - start making your dream list months in advance, and if possible, build relationships with people over coffees or at meet ups.
 - Make your list of women longer than your list of men. When some of the women at the top of your list say no, or drop out (they will, it happens, although it's less likely if you have a creche), you'll have a backup plan already thought out and will be less likely to go for a man instead.
 - Make sure it's clear that you're professional in your approach to AV. If you're a woman, standing in front of a room full of people, and a conference has an awful AV set up that you have to wrestle with, the crowd assumes it's because girls suck at IT. That's not a nice feeling. You can remove this anxiety by:
-	1. Having a great AV team who are good at this stuff
+	1. Having a great AV team who are good at this stuff.
 	2. Making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
 
 ####Running a CFP
@@ -173,11 +173,11 @@ Make it clear what you are looking for and what criteria you will be using to as
 Include:
 
 - What your conference is about. Don't assume they've attended. Don't copy the blurb from your website. If you're adding new streams this year that are a departure from previous years, make sure you elaborate on what these are and why you're adding them.
-- Who your audience is
-    - demographics
+- Who your audience is:
+    - demographics.
     - are they corporate, startup, non-profit/NGO, government etc.
 - What value you're hoping the event/conference will provide to your audience.
-- What style of talks you generally accept (technical, inspirational, case studies etc) 
+- What style of talks you generally accept (technical, inspirational, case studies etc).
 - What method of submission you expect the applicant to use. Include detailed technical information here. It will save you time later.
 - What information to include.
 - What information not to include.
@@ -233,7 +233,7 @@ Your venue needs to be accessible to people in wheelchairs, on crutches, or with
 
 Many venues state that they are 'accessible', but the accessible route provides a degraded experience that is not communicated or factored into event planning. You need to:
 
-- Ask to be shown the accessible access-ways
+- Ask to be shown the accessible access-ways.
 - Walk through the event experience from that perspective - ensure they are unimpeded (unlocked, clear etc). 
 - This includes any related events, like drinks/after-parties. 
 - Check if there a suitable amount of wheelchair-friendly seating space both in and out of the auditoriums.
@@ -261,16 +261,16 @@ Does anything in your venue preclude you from catering to Deaf attendees? Ideall
 - Support wireless headphones for the sound system.
 - Consider also people with intersecting disabilities (e.g. Deaf and wheelchair access). Can the venue support this?
 - Offer printed or digital copies of slides to these attendees. Often, they'll miss the slide while watching the sign translation.
-- [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/)
+- [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/).
 
 
 ####Room for extra facilities 
 
 Does the venue have room to support extra facilities like: 
 
-- Speakers lounge
-- Quiet/retreat space
-- Creche
+- Speakers lounge.
+- Quiet/retreat space.
+- Creche.
 - Emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
 
 
@@ -282,7 +282,7 @@ Offering on-site childcare is becoming increasingly common. It makes your event 
 
 Services that may help:
 
-- [Relief teacher agency](http://www.randstad.co.nz)
+- [Relief teacher agency](http://www.randstad.co.nz).
 - Ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
 - Contact us at <hello@hopper.org.nz> if you need help with toy supply/hire. We may be able to assist.
 - [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
@@ -296,11 +296,11 @@ Many events fail to adequately cater to the many people who do not drink, offeri
 
 These are some of the people you'll exclude by focussing your event around alcohol:
 
-- Under 18s (or 21s in the US)
-- People whose religions prohibit drinking
-- Recovering alcoholics
-- People who choose not to drink or don't drink for health reasons
-- Pregnant women
+- Under 18s (or 21s in the US).
+- People whose religions prohibit drinking.
+- Recovering alcoholics.
+- People who choose not to drink or don't drink for health reasons.
+- Pregnant women.
 - Contributes to an environment where women are more likely to feel unsafe.
 
 To make your event more welcoming:
@@ -308,7 +308,7 @@ To make your event more welcoming:
 - Ensure you have at least an equal number of alcoholic and non-alcoholic beverages. Remember that people who drink will also likely consume the non-alcoholic beverages. Include mocktails if you're serving cocktails.
 - Display these drinks in the same location. Don't make non-drinkers go off to a special bar/spot to get their drink.
 - Consider the venue for after parties if alcohol is involved. Is it close to public transport routes?
-- Make sure there are safe ways for attendees to get home (organise cabs etc)
+- Make sure there are safe ways for attendees to get home (organise cabs etc).
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
 
 ###Your team
@@ -321,10 +321,10 @@ If you can't cater for all sizes, provide an alternative - give a lot of notice 
 
 Your staff should all be trained on the basics, including:
 
-- using chosen gender pronouns, or using neutral gender pronouns
-- not using sexist, ableist, cis-sexist, or homophobic language. For example, 'tranny', 'lame', 'retarded', 'gypped'.
-- managing your code of conduct
-- looking after the needs of any attendees who have special requirements, such as disabilities or different food requests.
+- Using chosen gender pronouns, or using neutral gender pronouns.
+- Not using sexist, ableist, cis-sexist, or homophobic language. For example, 'tranny', 'lame', 'retarded', 'gypped'.
+- Managing your code of conduct.
+- Looking after the needs of any attendees who have special requirements, such as disabilities or different food requests.
 
 ##Code of Conduct 
 
@@ -334,9 +334,9 @@ For some people, a code of conduct is a bit of a swear word. Many people have th
 
 A code of conduct does neither of these things. It exists to:
 
-- Inform your speakers and attendees of the standard of behaviour you expect
-- Send a clear message to marginalised groups, including women, that their presence is welcome and you are thinking of their safety and comfort
-- Give you a framework to train your staff and volunteers around
+- Inform your speakers and attendees of the standard of behaviour you expect.
+- Send a clear message to marginalised groups, including women, that their presence is welcome and you are thinking of their safety and comfort.
+- Give you a framework to train your staff and volunteers around.
 - Highlight channels to report issues on should they arise.
 
 Having a code of conduct doesn't guarantee good behaviour, but it tells people you care, and that they can come to you with a problem and trust you to deal with it appropriately.
@@ -369,9 +369,9 @@ Once you've written it, you need to display it. Here's some ideas of where you m
 
 At the beginning of your (undoubtedly excellent) event, you'll probably be welcoming your attendees and setting the scene for your conference. It's really important to discuss your code of conduct at this time. You need to:
 
-- Mention you have a code of conduct
+- Mention you have a code of conduct.
 - Provide a brief breakdown of it, such as "[event name] is committed to being a harassment-free space. Harassment of any form, including sexism, racism, transphobia and ableism is unacceptable. This includes verbal comments, unwanted physical attention, photography, stalking and more. Our full code of conduct is available on our website and [other places like event booklet]."
-- Give ownership of the environment to the attendees - "we rely on you to make this an amazing place. If you notice anything you think is inappropriate, please say something or speak to one of our team"
+- Give ownership of the environment to the attendees - "we rely on you to make this an amazing place. If you notice anything you think is inappropriate, please say something or speak to one of our team".
 - Ensure reporting channels are clear "any of our team can help you if you'd like to report a breach of our code of conduct. You can find them by [details]".
 
 ###Training your team before the event
@@ -407,23 +407,23 @@ Anyone in your team must be able to take a report from a conference attendee. Re
 This report should: 
 
 - Never be taken in a public area where other attendees can overhear.
-- Never be taken in the presence of the offending party
+- Never be taken in the presence of the offending party.
 
 When taking a report, your team member should:
 
-- Record what they say
-- Reassure them they are being taken seriously
-- Avoid making specific promises about what actions the organisers will take
+- Record what they say.
+- Reassure them they are being taken seriously.
+- Avoid making specific promises about what actions the organisers will take.
 - Ask for any other information if the reporter has not volunteered it (such as time, place), but do not pressure them if they are not willing or able to provide it.
-- Offer to provide them with an update if requested
+- Offer to provide them with an update if requested.
 
 > **Important**: You should _never_ demand proof from the victim, engage in any form of victim-blaming behaviour (such as implying they were leading them on, or were too drunk), or advise the victim that you must hear 'both sides of the story'. Don't judge the victim for what has happened.
 
 Once the report has been taken, your team member should:
 
-- Offer to locate friend/family/support person
-- Arrange for an escort by conference staff or a trusted person
-- Offer to contact law enforcement
+- Offer to locate friend/family/support person.
+- Arrange for an escort by conference staff or a trusted person.
+- Offer to contact law enforcement.
 - Offer to contact support services, such as rape crisis, if applicable.
 
 > **Important**: Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
@@ -440,28 +440,28 @@ A report should be made of any breaches of the code of conduct, whether they are
 
 Reports should include as much of the following as possible:
 
-- Identifying information (name/badge number) of the participant
-- The time you issued the warning
-- The behaviour that was in violation
-- The approximate time of the behaviour (if different than the time of warning)
-- The circumstances surrounding the incident
-- Your identity
-- Other people involved in the incident
+- Identifying information (name/badge number) of the participant.
+- The time you issued the warning.
+- The behaviour that was in violation.
+- The approximate time of the behaviour (if different than the time of warning).
+- The circumstances surrounding the incident.
+- Your identity.
+- Other people involved in the incident.
 
 ####Training for you or your code of conduct representative
 
 Either you or your representative(s) will be responsible for managing the reported incidents. Before the event, you need to decide what courses of action can take for breaches. These can include:
 
-- Warning or multiple warnings
-- Ejection from event for one day
-- Ejection from event for duration of event
-- Ejection from event and ban from x number of future events
+- Warning or multiple warnings.
+- Ejection from event for one day.
+- Ejection from event for duration of event.
+- Ejection from event and ban from x number of future events.
 - Ejection and permanent ban from future events.
 
 Generally, it is not recommended to facilitate a face-to-face apology in any form. This may:
 
-- re-traumatise the victim/other affected parties
-- in the case of a speaker, result in them making the situation worse.
+- Re-traumatise the victim/other affected parties.
+- In the case of a speaker, result in them making the situation worse.
 
 > **Example**: Kiwicon, a security/hacker conferences, has sparkly hula hoops to hang around the waist of people who make minor infractions (as well as a warning). These serve as a clear visual indicator that the person may not be safe, as well as providing a physical barrier to getting too close to another person.
 >
@@ -477,9 +477,9 @@ If you have an incident at the event, you may need to complete some post-inciden
 
 Generally this will cover:
 
-- What went wrong
-- How you managed it
-- What lessons you learned for next time
+- What went wrong.
+- How you managed it.
+- What lessons you learned for next time.
 
 > **Important**: Public responses should be anonymised to protect the identities of the parties involved. The purpose of this report is to give you a chance to reflect and to reassure your community that you take your responsibilities seriously.
 
