@@ -21,7 +21,7 @@ There's two aspects to this: Making the changes to your event, both in the prepa
 
 Both are important - if women and other minority groups don't know you've changed, or can't see a clear signal of your intent, they're likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
 
-Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and it's ongoing success.
+Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and its ongoing success.
 
 ##Before your event - the preparation phase
 
