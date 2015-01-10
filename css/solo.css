@@ -45,6 +45,14 @@ h1 {
   color: #0198E1;
 }
 
+h2 {
+	color: #35586C;
+}
+
+h3 {
+	color: #607B8B;
+}
+
 @media (min-width: 30rem) {
   h1 {
     font-size: 3rem;
