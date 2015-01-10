@@ -2,7 +2,6 @@
 layout: default
 ---
 
-#Tech Conferences and Diversity 101
 
 ##Why should you care?
 
