@@ -5,11 +5,11 @@ layout: default
 
 ##Why should you care?
 
-We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, LGBTQI, and disabled groups. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
+We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Transexual Queer Intersex">LGBTQI</abbr>, and disabled groups. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
 
 Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
 
-If you're running an event in the technology space (or any STEM area), you have a duty to our community to make your event as welcoming as possible to all of our community.
+If you're running an event in the technology space (or any <abbr title="Science, Technology, Engineering and Maths">STEM</abbr> area), you have a duty to our community to make your event as welcoming as possible to all of our community.
 
 Some of you will already be doing a pretty good job. That's awesome. There's always room for improvement. 
 
