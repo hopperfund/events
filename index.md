@@ -123,9 +123,9 @@ You probably didn't click the link, so here's the Cliff's Notes:
 8. Save slots — as many as half — for people you find later in the process.
 9. Take chances. 
 
-I can't highlight enough the important of transparency. People respect honesty, and yet it's one of the most frightening things for us to do when running an event or a business. Be honest if you haven't done well at this in the past. Be honest about what you're trying to do to get better, and about the mistakes you'll make along the way (you'll make them, we all do).
+I can't highlight enough the importance of transparency. People respect honesty, and yet it's one of the most frightening things for us to do when running an event or a business. Be honest if you haven't done well at this in the past. Be honest about what you're trying to do to get better, and about the mistakes you'll make along the way (you'll make them, we all do).
 
-> **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great to offer the option of donating this back into a scholarship pool, for example.
+> **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great idea to offer the option of donating this back into a scholarship pool, for example.
 
 ####Hand-picking speakers
 
@@ -133,7 +133,7 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 
 - Impostor syndrome. [It's a real thing](https://counseling.caltech.edu/general/InfoandResources/Impostor), and it's important to understand.
 - A surprising number of women who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
-- There's often less visible/prominent women speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another women if they cannot speak, or they are women's speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
+- There's often less visible/prominent women speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another woman if they cannot speak, or there are women's speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
 - Offer speaker coaching in your initial email, either remotely, or in person, or a combination of both.   
 - Include a clear outline of what your event is about:
 	- Who is your audience.
@@ -238,7 +238,7 @@ Many venues state that they are 'accessible', but the accessible route provides 
 - This includes any related events, like drinks/after-parties. 
 - Check if there a suitable amount of wheelchair-friendly seating space both in and out of the auditoriums.
 - Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. 
-- Check if there enough seating in break-out spaces for those who are pregnant or tire easily. 
+- Check if there is enough seating in break-out spaces for those who are pregnant or tire easily. 
 - Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
 
 ####Catering
@@ -467,7 +467,7 @@ Generally, it is not recommended to facilitate a face-to-face apology in any for
 - Re-traumatise the victim/other affected parties.
 - In the case of a speaker, result in them making the situation worse.
 
-> **Example**: Kiwicon, a security/hacker conferences, has sparkly hula hoops to hang around the waist of people who make minor infractions (as well as a warning). These serve as a clear visual indicator that the person may not be safe, as well as providing a physical barrier to getting too close to another person.
+> **Example**: Kiwicon, a security/hacker conference, has sparkly hula hoops to hang around the waist of people who make minor infractions (as well as a warning). These serve as a clear visual indicator that the person may not be safe, as well as providing a physical barrier to getting too close to another person.
 >
 > Note: Techniques such as this are not recommended for anything more than a minor infraction.
 
