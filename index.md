@@ -168,6 +168,8 @@ Here's some things you can try:
 - Consider paying someone, or several people to do diversity outreach work for your event to encourage diversee applicants to submit proposals to speak. 
 - Run an open FAQ session via Google Hangouts or similar.
 
+**Know any organisations supporting Māori, Pasifika, Queer, or Trans* speakers in NZ? Let us know at <hello@hopper.org.nz> and we'll add them to the list.**
+
 It's also really important that your CFP is really great.
 
 Make it clear what you are looking for and what criteria you will be using to assess applications.
