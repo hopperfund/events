@@ -5,31 +5,33 @@ layout: default
 
 ##Why should you care?
 
-We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, LGBTQI, and disabled groups. Right now, we're doing a bad job of this.
+We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Transexual Queer Intersex">LGBTQI</abbr>, and disabled groups. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
 
 Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
 
-If you're running an event in the technology space (or any STEM area), you have a duty to our community to make your event as welcoming as possible to all of our community.
+If you're running an event in the technology space (or any <abbr title="Science, Technology, Engineering and Maths">STEM</abbr> area), you have a duty to our community to make your event as welcoming as possible to all of our community.
+
+Some of you will already be doing a pretty good job. That's awesome. There's always room for improvement. 
 
 ##How do you fix it?
 
-There's no magic fix for this stuff, but you can take steps to gradually improve. You have to want to do it, though!
+There's no magic fix for this stuff, but you can take steps to gradually improve. You have to want to do it, though! A half-hearted attempt will normally fail. People can tell you don't believe in what you're doing, and this alienates attendees and potential attendees from diverse communities even more.
 
 It's important to not leave this stuff until too late, but even if you have, there's stuff you can do -- just don't  expect a magical fix and be honest with your audience that you still have work to do.
 
 There's two aspects to this: Making the changes to your event, both in the preparation and on-the-day delivery, and communicating with your attendees/potential attendees that you've made the changes to your event. 
 
-Both are important - if women and other minority groups don't know you've changed, or can't see a clear signal of your intent, they're likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
+Both are important - if they don't know you've changed, or can't see a clear signal of your intent, diverse attendees are likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
 
 Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and its ongoing success.
 
 ##Proper Preparation Prevents...
 
-###Your Organising Team
+###Have a diverse organising team
 
 If you don't already have a woman on your organising team, it's a good idea to add one, and not just in a token role. They'll help to bring perspectives you won't see, and it'll also send a clear message that your team cares about inclusivity.
 
-Make sure your event staff for the day are a mix of genders (and ideally races too), so that people feel comfortable approaching your staff.
+This also applies to your staff and helps to make them approachable. This is cover in more detail further down.
 
 ###Set a target
 
@@ -65,14 +67,14 @@ There are some creative ways you can make your event more accessible:
 	- Offer 'pay more if you want' to chip in to help cover minority speaker/attendee costs.
 - Offer student tickets (student must present valid ID at registration desk).
 
-###Your T-shirts
+###Nail Your T-shirts
 
 T-shirts are hugely popular event swag. They're a walking advertisement for how much people love your event. However, they're also really awful if not done well - poorly fitted shirts in inadequate size ranges exclude attendees.
 
 Here's some basics:
 
-- Offer mens and womens style shirts. Never do unisex ones. Unisex actually means mens.
-- Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want mens shirts and not all women want womens shirts.
+- Offer men's and women's style shirts. Never do unisex ones. Unisex actually means men's.
+- Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want men's shirts and not all women want women's shirts.
 - Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own. Don't skip it.
 - Offer as wide a range of shirts as possible, even if it means working with 2 suppliers to extend the range into larger sizes. It is really hard to find women's plus size tees, but [these people have some](http://www.wholesaletshirtsnz.com/category/ladies-womens-t-shirts-auckland).
 - If you can't offer a full range of sizes, include a 'no-shirt' option. No, women don't want another men's t-shirt as a nightie.
@@ -82,7 +84,7 @@ Here's some basics:
 	- Vertical lines that distort when placed over a larger bust.
 	- Designs that sit too low so fall on underside of bust.
 
-###Partner events
+###Run Partner events
 
 Conferences are big events, and can be a bit overwhelming. Sometimes, arranging a partner event with a local organisation can be a great way to make your event more welcoming and help your attendees build a stronger network.
 
@@ -93,7 +95,7 @@ Some events that may work well:
 - A pre-conference breakfast women's meet-up at a local café. You can add an option for this on the registration form, and then make a group table booking, or simply set up a separate meetup booking page.
 - Offer a new attendee meet-and-greet.
 
-###Speakers
+###Get Diverse Speakers
 
 If you want a diverse audience, you need to start with what you're selling them. If you're a conference, that's your speakers.
 
@@ -123,17 +125,17 @@ You probably didn't click the link, so here's the Cliff's Notes:
 8. Save slots — as many as half — for people you find later in the process.
 9. Take chances. 
 
-I can't highlight enough the important of transparency. People respect honesty, and yet it's one of the most frightening things for us to do when running an event or a business. Be honest if you haven't done well at this in the past. Be honest about what you're trying to do to get better, and about the mistakes you'll make along the way (you'll make them, we all do).
+Transparency is incredibly important. People respect honesty, and yet it's one of the most frightening things to do when running an event or a business. Be honest if you haven't done well at this in the past. Be honest about what you're trying to do to get better, and about the mistakes you'll make along the way (you'll make them, we all do).
 
-> **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great to offer the option of donating this back into a scholarship pool, for example.
+> **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great idea to offer the option of donating this back into a scholarship pool, for example.
 
 ####Hand-picking speakers
 
 In theory, hand-picking speakers should be easy, right? Write down a list of people you want. Make it half men, half women, and make sure it's not all white folks. In reality, it's always more complicated than that. People will always decline for myriad reasons, but here's some things to consider:
 
 - Impostor syndrome. [It's a real thing](https://counseling.caltech.edu/general/InfoandResources/Impostor), and it's important to understand.
-- A surprising number of women who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
-- There's often less visible/prominent women speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another women if they cannot speak, or they are women's speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
+- A surprising number of diverse speakers, especially women, who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
+- There's often less visible/prominent diverse speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another diverse speaker if they cannot speak, or there are speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
 - Offer speaker coaching in your initial email, either remotely, or in person, or a combination of both.   
 - Include a clear outline of what your event is about:
 	- Who is your audience.
@@ -146,9 +148,9 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 	1. Having a great AV team who are good at this stuff.
 	2. Making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
 
-####Running a CFP
+####Running a Call For Papers (CFP)
 
-This can be harder to get right than self-selection. You cannot simply assume that just because you've decided to make an effort that things will get better and that people will realise that. You might like to consider a mix of speaker selection (focussed on women and other minority groups) and a CFP to begin with.
+This can be harder to get right than self-selection. You cannot simply assume that just because you've decided to make an effort that things will get better and that people will realise that. You might like to consider a mix of speaker selection (focussed on diverse speakers) and a CFP to begin with.
 
 The biggest mistake people make with a CFP is assuming people know as much about their event as they do, and that everyone will flock to speak at their event. There is a glaring problem with this approach: it means the people who respond to your event's CFP will be fanboys: people who have attended before, who know the event inside and out and who represent your existing audience. They're extremely unlikely to help you achieve your goal of broadening your speaker list.
 
@@ -162,8 +164,8 @@ Here's some things you can try:
 - Ask them (or the rest of your community) to recommend and introduce you to other talented speakers from diverse backgrounds.
 - Build relationships with leaders in minority communities. 
 - Talk to Girl Geek Dinners, Gather Workshops, Rails Girls or other events. Their speakers, coaches and mentors can be great speakers for you.
-- Go to local meet ups, especially women-in-tech ones. Get to know them. 
-- Consider paying someone, or several people to do diversity outreach work for your event to encourage women and other minority groups to submit proposals to speak. 
+- Go to local meet ups, especially women-in-tech or other diversity-focussed ones. Get to know them. 
+- Consider paying someone, or several people to do diversity outreach work for your event to encourage diversee applicants to submit proposals to speak. 
 - Run an open FAQ session via Google Hangouts or similar.
 
 It's also really important that your CFP is really great.
@@ -173,9 +175,9 @@ Make it clear what you are looking for and what criteria you will be using to as
 Include:
 
 - What your conference is about. Don't assume they've attended. Don't copy the blurb from your website. If you're adding new streams this year that are a departure from previous years, make sure you elaborate on what these are and why you're adding them.
-- Who your audience is:
-    - demographics.
-    - are they corporate, startup, non-profit/NGO, government etc.
+- Who your audience are:
+    - Demographics.
+    - Are they corporate, startup, non-profit/NGO, government etc?
 - What value you're hoping the event/conference will provide to your audience.
 - What style of talks you generally accept (technical, inspirational, case studies etc).
 - What method of submission you expect the applicant to use. Include detailed technical information here. It will save you time later.
@@ -199,7 +201,7 @@ Blind selection is a great technique to use to remove bias. Many biases we hold 
 
 In a blind selection process, all details for the submitting speakers are anonymised, and the speakers are assessed on their own merits.
 
-!!Con shared the details of their anonymising process. I'm going to summarise that here:
+!!Con shared the details of their anonymising process. This can be summarised as:
 
 1. Allocate 1 or 2 people to complete the initial application review. These people will be responsible for removing all identifiable details from the application, and summarising any content such as video applications. These people will not be further involved in the selection process.
 2. Applications are passed to the assessing team. Each team member reads every application and assigns it a grade from A to D (A being 'I will fight for this to be accepted' and D being 'I will fight for this to be rejected'). If you know who a submission is from, refrain from grading.
@@ -216,14 +218,14 @@ The conference environment, from the venue, to food, to the atmosphere, is a hug
 
 This can be a hard one, as there are many other factors to weigh in - everything from cost to availability and more.
 
-When you're assessing venues, here's a checklist of things to consider which can impact on how welcoming your event is to marginalised groups.
+When you're assessing venues, here's a checklist of things to consider which can impact on how welcoming your event is to diverse attendees.
 
 ####Bathrooms
 
 This is incredibly important for attendees with non-binary gender identities.
 
 - At least some single-occupancy, gender-neutral bathrooms. 
-- This means no 'womens' and 'mens' designation, and no grouped waiting area. 
+- This means no 'women's' and 'men's' designation, and no grouped waiting area. 
 - Ensure that the availability of these is clearly communicated. 
 - Ensure adequate disabled bathrooms.
 
@@ -238,7 +240,7 @@ Many venues state that they are 'accessible', but the accessible route provides 
 - This includes any related events, like drinks/after-parties. 
 - Check if there a suitable amount of wheelchair-friendly seating space both in and out of the auditoriums.
 - Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. 
-- Check if there enough seating in break-out spaces for those who are pregnant or tire easily. 
+- Check if there is enough seating in break-out spaces for those who are pregnant or tire easily. 
 - Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
 
 ####Catering
@@ -247,10 +249,11 @@ Check if they can provide for dietary requirements in an acceptable way. This me
 
 - Catering to people with coeliac disease and other allergies, vegetarians, vegans, religious needs, including halal and kosher, and more. 
 - Check the food-service plans - it's much harder to feed people with dietary needs if wait-staff are taking food around a room. 
-- If food is served buffet-style, try give people with dietary requirements access first. Often, serving implements get messed up and cross-contamination occurs, or the only food they can eat is consumed by other people.
+- As a preference, serve food for those with special needs in a separate area. Vegetarian food often looks tastier than normal conference fare, which means it gets eaten first. 
+- If food is served buffet-style, try to give people with dietary requirements access first. Often, serving implements get messed up and cross-contamination occurs, or the only food they can eat is consumed by other people.
 - If you can't cater for these, let the attendees know as soon as possible, and consider refunding a portion of the ticket cost. 
 - Help them by identifying local restaurants and food places that cater for their dietary requirements, and consider offering them access to a fridge on-site to store their own food.
-- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. Imagine your event at maximum chaos; you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
+- If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. This can be done at check-in. Imagine your event at maximum chaos; you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
 
 ####Deaf access
 
@@ -260,7 +263,7 @@ Does anything in your venue preclude you from catering to Deaf attendees? Ideall
 - Support this with adequate stage space/technical infrastructure. 
 - Support wireless headphones for the sound system.
 - Consider also people with intersecting disabilities (e.g. Deaf and wheelchair access). Can the venue support this?
-- Offer printed or digital copies of slides to these attendees. Often, they'll miss the slide while watching the sign translation.
+- Offer printed or digital copies of slides to these attendees. Often, they'll miss the slide while watching the sign translation. This will mean getting slides off speakers first if you're printing them, or some on-the-day wrangling to share digital files otherwise.
 - [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/).
 
 
@@ -274,7 +277,7 @@ Does the venue have room to support extra facilities like:
 - Emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
 
 
-###Crèche
+###Crèche and breastfeeding areas
 
 Offering on-site childcare is becoming increasingly common. It makes your event a lot more accessible if you can offer to look after kids, especially under 5's, while talks are on.
 
@@ -286,6 +289,8 @@ Services that may help:
 - Ask around on Twitter, especially for events in weekends or holidays. If you're paying, there may be teachers willing to help.
 - Contact us at <hello@hopper.org.nz> if you need help with toy supply/hire. We may be able to assist.
 - [Face painting, balloon twisting and character entertainment for children](http://www.fabfaces.co.nz).
+
+If you don't have a crèche, you should at minimum have an area where breastfeeding women can comfortably feed their infants, and state the availability of this on your website. Conferences are an excellent way for women who are currently out of the workforce to keep up, and welcoming infants makes a huge difference to their attendance.
 
 \*We're not lawyers, so do check with one of them.
 
@@ -312,6 +317,12 @@ To make your event more welcoming:
 - Make sure there are safe ways for attendees to get home (organise cabs etc).
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
 
+###Afterparties
+
+In addition to considering how you choose to serve alcohol, remember that for most people, your afterparty is still work-related. They're primarily there to meet interesting people and talk to them about cool things. You want them to plot amazing projects they'll collaborate on until the small hours of the morning and leave inspired.
+
+The quickest way to kill this is to have the music up too loud. It's a small difference between 'pleasant background' and 'I don't want to be here shouty shouty party' levels. Go for the first one.
+
 ###Your team
 
 Your team are an incredibly important part of how welcoming your event is. You should aim for your team on the day to be representative of your intended audience - in other words, you want a diverse team, as well as a diverse audience.
@@ -331,7 +342,9 @@ Your staff should all be trained on the basics, including:
 
 _This section shamelessly borrows from the excellent folks at the Geek Feminism Wiki_
 
-For some people, a code of conduct is a bit of a swear word. Many people have the illusion that the purpose of a code of conduct is to prevent any instance of bad behaviour at the event. The myth also exists that events that have never had an issue do not need a code of conduct, and to have one implies the event has problems.
+For some people, a code of conduct is a bit of a swear word. Many people have the illusion that the purpose of a code of conduct is to prevent any instance of bad behaviour at the event. 
+
+Some people also believe that if they have never had an issue reported at their event, they do not need a code of conduct, and to have one implies the event has problems. 
 
 A code of conduct does neither of these things. It exists to:
 
@@ -339,6 +352,7 @@ A code of conduct does neither of these things. It exists to:
 - Send a clear message to marginalised groups, including women, that their presence is welcome and you are thinking of their safety and comfort.
 - Give you a framework to train your staff and volunteers around.
 - Highlight channels to report issues on should they arise.
+- Build trust that you will support women or other complainants if an issue did arise.
 
 Having a code of conduct doesn't guarantee good behaviour, but it tells people you care, and that they can come to you with a problem and trust you to deal with it appropriately.
 
@@ -374,6 +388,7 @@ At the beginning of your (undoubtedly excellent) event, you'll probably be welco
 - Provide a brief breakdown of it, such as "[event name] is committed to being a harassment-free space. Harassment of any form, including sexism, racism, transphobia and ableism is unacceptable. This includes verbal comments, unwanted physical attention, photography, stalking and more. Our full code of conduct is available on our website and [other places like event booklet]."
 - Give ownership of the environment to the attendees - "we rely on you to make this an amazing place. If you notice anything you think is inappropriate, please say something or speak to one of our team".
 - Ensure reporting channels are clear "any of our team can help you if you'd like to report a breach of our code of conduct. You can find them by [details]".
+- You may also want to mention potential repercussions. Your call.
 
 ###Training your team before the event
 
@@ -424,7 +439,7 @@ Once the report has been taken, your team member should:
 
 - Offer to locate friend/family/support person.
 - Arrange for an escort by conference staff or a trusted person.
-- Offer to contact law enforcement.
+- Offer to contact law enforcement, if appropriate.
 - Offer to contact support services, such as rape crisis, if applicable.
 
 > **Important**: Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
@@ -449,7 +464,7 @@ Reports should include as much of the following as possible:
 - Your identity.
 - Other people involved in the incident.
 
-####Training for you or your code of conduct representative
+####Dealing with the issue
 
 Either you or your representative(s) will be responsible for managing the reported incidents. Before the event, you need to decide what courses of action can take for breaches. These can include:
 
@@ -464,13 +479,15 @@ Generally, it is not recommended to facilitate a face-to-face apology in any for
 - Re-traumatise the victim/other affected parties.
 - In the case of a speaker, result in them making the situation worse.
 
-> **Example**: Kiwicon, a security/hacker conferences, has sparkly hula hoops to hang around the waist of people who make minor infractions (as well as a warning). These serve as a clear visual indicator that the person may not be safe, as well as providing a physical barrier to getting too close to another person.
->
-> Note: Techniques such as this are not recommended for anything more than a minor infraction.
-
 Your team should sit down before the event and agree what the appropriate courses of action are. These should be recorded in a table/chart that is easily available on the day.
 
 You'll never be able to cover all potential outcomes, but having some guidelines in place will help to ensure you feel confident you're making the right decision and that you are backed by your team.
+
+You can choose to come up with creative ways to manage minor infractions, or to help prevent infractions from occuring.
+
+> **Example**: Kiwicon, a security/hacker conference, has sparkly hula hoops to hang around the waist of people who make minor infractions (as well as a warning). These serve as a clear visual indicator that the person may not be safe, as well as providing a physical barrier to getting too close to another person. Attendees can also request to have a hoop if they feel they aren't very good at understanding personal space.
+>
+> Note: Techniques such as this are not recommended for anything more than a minor infraction.
 
 ####After the event
 
