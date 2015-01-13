@@ -63,7 +63,7 @@ There are some creative ways you can make your event more accessible:
 
 - Partner with a sponsor/sponsors to offer scholarships to help attendees from underrepresented groups. This could cover tickets, accommodation, transport, or any combination of these.
 - Allow individual sponsorship.
-	- 1 + 1 tickets (buy a ticket for you, and a ticket for us to allocate to a women or attendee from another underrepresented group.
+	- 1 + 1 tickets (buy a ticket for you, and a ticket for us to allocate to a woman or attendee from another underrepresented group.
 	- Offer 'pay more if you want' to chip in to help cover costs for speakers/attendees from underrepresented groups.
 - Offer student tickets (student must present valid ID at registration desk).
 
