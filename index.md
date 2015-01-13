@@ -5,7 +5,7 @@ layout: default
 
 ##Why should you care?
 
-We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Transexual Queer Intersex">LGBTQI</abbr>, and disabled groups. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
+We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Trans Queer Intersex">LGBTQI</abbr>, and disabled groups. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
 
 Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
 
@@ -17,11 +17,11 @@ Some of you will already be doing a pretty good job. That's awesome. There's alw
 
 There's no magic fix for this stuff, but you can take steps to gradually improve. You have to want to do it, though! A half-hearted attempt will normally fail. People can tell you don't believe in what you're doing, and this alienates attendees and potential attendees from diverse communities even more.
 
-It's important to not leave this stuff until too late, but even if you have, there's stuff you can do -- just don't  expect a magical fix and be honest with your audience that you still have work to do.
+It's important to not leave this stuff until too late, but even if you have, there's stuff you can do -- just don't expect that magical fix and be honest with your audience that you still have work to do.
 
 There's two aspects to this: Making the changes to your event, both in the preparation and on-the-day delivery, and communicating with your attendees/potential attendees that you've made the changes to your event. 
 
-Both are important - if they don't know you've changed, or can't see a clear signal of your intent, diverse attendees are likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
+Both are important - if they don't know you've changed, or can't see a clear signal of your intent, attendees from underrepresented groups are likely to err on the side of caution and stay away. That's not a judgement on you, or your event; it's caution learned from lots of other experiences.
 
 Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and its ongoing success.
 
@@ -61,10 +61,10 @@ Pricing and ticketing is hard. Bottom line: you have to cover your costs. Howeve
 
 There are some creative ways you can make your event more accessible:
 
-- Partner with a sponsor/sponsors to offer scholarships to help diverse attendees. This could cover tickets, accommodation, transport, or any combination of these.
+- Partner with a sponsor/sponsors to offer scholarships to help attendees from underrepresented groups. This could cover tickets, accommodation, transport, or any combination of these.
 - Allow individual sponsorship.
-	- 1 + 1 tickets (buy a ticket for you, and a ticket for us to allocate to a women or attendee from another marginalised group.
-	- Offer 'pay more if you want' to chip in to help cover minority speaker/attendee costs.
+	- 1 + 1 tickets (buy a ticket for you, and a ticket for us to allocate to a women or attendee from another underrepresented group.
+	- Offer 'pay more if you want' to chip in to help cover costs for speakers/attendees from underrepresented groups.
 - Offer student tickets (student must present valid ID at registration desk).
 
 ###Nail Your T-shirts
@@ -109,7 +109,7 @@ You are broadening the pool of speakers you're considering to counter the natura
 
 ####Selection Methods
 
-Different events choose speakers using different methods. Generally, you'll either be hand-picking speakers, or using a CFP, or a combination of the two.
+Different events choose speakers using different methods. Generally, you'll either be hand-picking speakers, or using a Call for Papers (CFP), or a combination of the two.
 
 Before doing anything else, stop and go and [read this by Sarah Milstein, who is doing this exceptionally well](http://blogs.hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/).
 
@@ -134,8 +134,8 @@ Transparency is incredibly important. People respect honesty, and yet it's one o
 In theory, hand-picking speakers should be easy, right? Write down a list of people you want. Make it half men, half women, and make sure it's not all white folks. In reality, it's always more complicated than that. People will always decline for myriad reasons, but here's some things to consider:
 
 - Impostor syndrome. [It's a real thing](https://counseling.caltech.edu/general/InfoandResources/Impostor), and it's important to understand.
-- A surprising number of diverse speakers, especially women, who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
-- There's often less visible/prominent diverse speakers. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another diverse speaker if they cannot speak, or there are speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
+- A surprising number of speakers from underrepresented groups, especially women, who you consider to be awesome will think they're not good enough, especially if they haven't presented at an event of your scale or type before. Be polite but persistent; explain why you want them to speak.
+- There's often less visible/prominent speakers from underrepresented groups. You may not be the only people to approach them that week, or even that day. Make your request compelling, but also consider who else you could approach. They may have a recommendation for another speaker if they cannot speak, or there are speaker networks, although these are less common in NZ. If you're really stuck, we might be able to help you find someone. Generally, people want to help, provided you don't leave it until the last minute.
 - Offer speaker coaching in your initial email, either remotely, or in person, or a combination of both.   
 - Include a clear outline of what your event is about:
 	- Who is your audience.
@@ -150,7 +150,7 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 
 ####Running a Call For Papers (CFP)
 
-This can be harder to get right than self-selection. You cannot simply assume that just because you've decided to make an effort that things will get better and that people will realise that. You might like to consider a mix of speaker selection (focussed on diverse speakers) and a CFP to begin with.
+This can be harder to get right than self-selection. You cannot simply assume that just because you've decided to make an effort that things will get better and that people will realise that. You might like to consider a mix of speaker selection (focussed on  speakers from underrepresented groups) and a CFP to begin with.
 
 The biggest mistake people make with a CFP is assuming people know as much about their event as they do, and that everyone will flock to speak at their event. There is a glaring problem with this approach: it means the people who respond to your event's CFP will be fanboys: people who have attended before, who know the event inside and out and who represent your existing audience. They're extremely unlikely to help you achieve your goal of broadening your speaker list.
 
@@ -161,14 +161,14 @@ If you're running a CFP, you'll need to work harder to get the word out that you
 Here's some things you can try:
 
 - Ask awesome people to apply directly - via a tweet or an email. Help them to see what you see in them.
-- Ask them (or the rest of your community) to recommend and introduce you to other talented speakers from diverse backgrounds.
-- Build relationships with leaders in minority communities. 
+- Ask them (or the rest of your community) to recommend and introduce you to other talented speakers from underrepresented communities.
+- Build relationships with leaders in underrepresented communities. 
 - Talk to Girl Geek Dinners, Gather Workshops, Rails Girls or other events. Their speakers, coaches and mentors can be great speakers for you.
 - Go to local meet ups, especially women-in-tech or other diversity-focussed ones. Get to know them. 
-- Consider paying someone, or several people to do diversity outreach work for your event to encourage diversee applicants to submit proposals to speak. 
+- Consider paying someone, or several people to do diversity outreach work for your event to encourage applicants from underrepresented communities to submit proposals to speak. 
 - Run an open FAQ session via Google Hangouts or similar.
 
-**Know any organisations supporting Māori, Pasifika, Queer, or Trans* speakers in NZ? Let us know at <hello@hopper.org.nz> and we'll add them to the list.**
+**Know any organisations supporting Māori, Pasifika, Queer, or Trans speakers in NZ? Let us know at <hello@hopper.org.nz> and we'll add them to the list.**
 
 It's also really important that your CFP is really great.
 
@@ -214,7 +214,7 @@ In a blind selection process, all details for the submitting speakers are anonym
 
 ##Conference environment - venue, audience, code of conduct
 
-The conference environment, from the venue, to food, to the atmosphere, is a huge factor in your event being welcoming to attendees from marginalised groups. Some of this you can control, and some of it is behaviour/culture you need to encourage (and set an expectation for) from your attendees.
+The conference environment, from the venue, to food, to the atmosphere, is a huge factor in your event being welcoming to attendees from underrepresented groups. Some of this you can control, and some of it is behaviour/culture you need to encourage (and set an expectation for) from your attendees.
 
 ###Venue selection
 
@@ -283,7 +283,7 @@ Does the venue have room to support extra facilities like:
 
 Offering on-site childcare is becoming increasingly common. It makes your event a lot more accessible if you can offer to look after kids, especially under 5's, while talks are on.
 
-As far as we can establish, NZ Childcare Centre Legislation doesn't apply to one-off crèches.\*
+As far as we can establish, NZ Childcare Centre Legislation doesn't apply to one-off crèches\*, but you'll want to make sure you've got adequate supervision and have health and safety covered.
 
 Services that may help:
 
@@ -304,7 +304,7 @@ Many events fail to adequately cater to the many people who do not drink, offeri
 
 These are some of the people you'll exclude by focussing your event around alcohol:
 
-- Under 18s (or 21s in the US).
+- Under 18s.
 - People whose religions prohibit drinking.
 - Recovering alcoholics.
 - People who choose not to drink or don't drink for health reasons.
