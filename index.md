@@ -76,7 +76,7 @@ Communicating the changes also helps to transfer ownership of your event's atmos
 
 If you don't already have a woman on your organising team, add one. Don't just add them in a token role, either. They'll help to bring perspectives you won't see, and it'll also send a clear message that your team cares about inclusivity.
 
-This also applies to your staff and helps to make them approachable. This is cover in more detail further down.
+This also applies to your staff and helps to make them approachable. This is covered in more detail further down.
 
 ###<a name="target"></a>Set a target
 
