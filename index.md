@@ -146,7 +146,7 @@ Some events that may work well:
 
 If you want a diverse audience, you need to start with what you're selling them. If you're a conference, that's your speakers.
 
-Aim for a diverse line up, and not just gender diversity. Ideally, try for 50/50 gender diversity, but also consider racial diversity, age diversity and other forms of diversity. Different perspectives are important, not just for appearances sake, but because they can truly add to your event, and make the experience richer for all attendees.
+Aim for a diverse line up, and not just gender diversity. Ideally, try for gender diversity that [mirrors the real world](http://en.wikipedia.org/wiki/Gender_identity), but also consider racial diversity, age diversity and other forms of diversity. Different perspectives are important, not just for appearances sake, but because they can truly add to your event, and make the experience richer for all attendees.
 
 Be prepared for arguments from people who will tell you that you're diluting your quality for the sake of appearance. These people are wrong. 
 
