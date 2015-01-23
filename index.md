@@ -131,6 +131,8 @@ Here's some basics:
 	- Vertical lines that distort when placed over a larger bust.
 	- Designs that sit too low so fall on underside of bust.
 
+The Geek Feminism Wiki has a [really great in-depth article on this - check it out](http://geekfeminism.wikia.com/wiki/T-shirts) (and send it to your designer). 
+
 ###<a name="partner"></a>Run Partner events
 
 Conferences are big events, and can be a bit overwhelming. Sometimes, arranging a partner event with a local organisation can be a great way to make your event more welcoming and help your attendees build a stronger network.
