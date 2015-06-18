@@ -92,7 +92,7 @@ Understand the potential audience for your event:
 
 Sometimes it can be hard to assess this data, but you may be able to get an indication of previous gender splits from t-shirt selections.
 
-Check out [this data from WikiNZ](http://wikinewzealand.org/?graph=000601) on diversity in tech occupations in NZ from the 2013 census.
+Check out [this data from WikiNZ](http://legacy.wikinewzealand.org/index-tag=technology.html) on diversity in tech occupations in NZ from the 2013 census.
 
 You can download the source data to refine it more for your audience. As census data, it is, of course, self-categorised, so be aware of any biases that may arise, but it may be useful in helping you understand your potential audience.
 
