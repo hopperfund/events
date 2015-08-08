@@ -414,7 +414,7 @@ There are many example code of conducts and anti-harassment policies available. 
 If you're new to this, it can be a good idea to stick pretty close to the original. However, there are some excellent examples of conferences adapting the policy language to their own personal brand - check out Kiwicon's example.
 
 - [Geek Feminism Wiki Template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-- [Kiwicon Conference](https://kiwicon.org/faq/code-of-conduct/) and [FAQs](https://kiwicon.org/faq/#q9)
+- [Kiwicon Conference](http://2014.kiwicon.org/faq/code-of-conduct/) and [FAQs](http://2014.kiwicon.org/faq/#q9)
 - [Gather Conference](http://gathergather.co.nz/gatherly-behaviour/)
 
 It's not a great idea to completely roll your own. It's tempting to just go with 'Be nice', but unfortunately, most people's definition of 'nice' is pretty varied, and doesn't align with your own or that of marginalised people in your community. 'Be nice' is really hard to enforce when things go wrong, and doesn't give people who've been burned before a lot of confidence.
