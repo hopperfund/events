@@ -566,7 +566,7 @@ Resources:
 - [Sarah Milstein: Putting an End to Conferences Dominated by White Men](https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/)
 - [Geek Feminism Wiki: Code of Conduct and Policy Resources](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
 - [Ada Initiative: Example conference booklet](http://adainitiative.org/2012/10/freely-available-conference-booklet-template-designed-to-welcome-women/)
-- [Kiwicon Code of Conduct](https://kiwicon.org/faq/code-of-conduct/) and [FAQs](https://kiwicon.org/faq/#q9)
+- [Kiwicon Code of Conduct](http://2014.kiwicon.org/faq/code-of-conduct/) and [FAQs](http://2014.kiwicon.org/faq/#q9)
 - [Gather Code of Conduct](http://gathergather.co.nz/gatherly-behaviour/)
 - [Ashe Dryden: How to Not Make a Bad Situation Worse](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse)
 - [Kara Sowles: Alcohol and Inclusivity](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
