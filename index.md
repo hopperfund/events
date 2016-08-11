@@ -5,6 +5,8 @@ layout: default
 
 ##Why should you care?
 
+> Note: This guide was originally written for a New Zealand audience. If you're not from New Zealand, you'll need to substitute Māori and Pasifika with the underrepresented minorities in your area, such as First Nations or black technologists.
+
 We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Trans Queer Intersex">LGBTQI</abbr>, and disabled groups. It especially includes women who belong to one or more of those communities. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
 
 Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
@@ -45,6 +47,7 @@ Communicating the changes also helps to transfer ownership of your event's atmos
 		- [Hand-picking speakers](#handpick)
 		- [Running a call for papers (CFP)](#cfp)
 		- [Selecting the speakers](#choosing)
+	- [Talk to the tangata whenua](#tangatawhenua)
 - [Conference environment](#environment)
 	- [Venue selection](#venue)
 	- [Bathrooms](#bathrooms)
@@ -120,6 +123,7 @@ T-shirts are hugely popular event swag. They're a walking advertisement for how 
 
 Here's some basics:
 
+- Don't just offer t-shirts. Offer a [sweet tote bag with your branding](https://twitter.com/ksuyin/status/760969571163512832) as an alternative.
 - Offer men's and women's style shirts. Never do unisex ones. Unisex actually means men's.
 - Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want men's shirts and not all women want women's shirts.
 - Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own. Don't skip it.
@@ -261,6 +265,12 @@ In a blind selection process, all details for the submitting speakers are anonym
 5. Proposals with an advocate are then discussed with the group, and considered in the framework of a potential conference program. Decisions are then made about accepting or rejecting these talks.
 6. The original 1-2 people then send results and feedback to the applicants. As the people who had watched the videos and read other content, they are in a great position to combine the all the feedback into a great personal response to rejected applicants that still highlights what parts of the application they had loved, and encourages applicants to keep submitting to your conference and other conferences in the future.
 
+###<a name="tangatawhenua"></a>Talk to the tangata whenua
+
+New Zealand is a colonised nation. When you're running an event, it is courteous to speak to the tangata whenua for the area your event is held in. You should extend an invitation to open your event with a mihi. 
+
+Don't leave this until the last minute!
+
 ##<a name="environment"></a>Conference environment - venue, audience, code of conduct
 
 The conference environment, from the venue, to food, to the atmosphere, is a huge factor in your event being welcoming to attendees from underrepresented groups. Some of this you can control, and some of it is behaviour/culture you need to encourage (and set an expectation for) from your attendees.
@@ -280,6 +290,8 @@ This is incredibly important for attendees with non-binary gender identities.
 - Ensure that the availability of these is clearly communicated. 
 - Ensure adequate disabled bathrooms.
 
+You can [add signs to existing bathrooms](https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=https%3A%2F%2Finstagram.com%2Fp%2F8V2P8SIeit%2Fmedia&width=810) to reinforce that anyone who feels it is the right bathroom for them is welcome to use it.
+
 ####<a name="accessibility"></a>Accessibility 
 
 Your venue needs to be accessible to people in wheelchairs, on crutches, or with other physical disabilities. 
@@ -293,6 +305,8 @@ Many venues state that they are 'accessible', but the accessible route provides 
 - Consider whether attendees get to all necessary areas (registration, talks, food, bathrooms) in a reasonable time and whether you're happy with that entrance being their impression of your event. 
 - Check if there is enough seating in break-out spaces for those who are pregnant or tire easily. 
 - Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
+
+For more tips, [check out this excellent article](https://modelviewculture.com/pieces/organizing-more-accessible-tech-events).
 
 ####<a name="catering"></a>Catering
 
@@ -367,6 +381,8 @@ To make your event more welcoming:
 - Consider the venue for after parties if alcohol is involved. Is it close to public transport routes?
 - Make sure there are safe ways for attendees to get home (organise cabs etc).
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
+
+Consider restricting the amount of alcohol available. I know we expect everyone to be adults, but the reality proves some people can't be. Offering a number of drinks tokens to attendees instead of a straight open bar caters for those who will drink reasonably as well as curtailing excess.
 
 ###<a name="afterparties"></a>Afterparties
 
@@ -452,6 +468,8 @@ In general, you should designate a person/people as the official code of conduct
 You should assign a room as a safe room where anyone in distress or who wants to discuss a confidential code of conduct-related manner can be taken. This room might also double as a first-aid room, but should not be your general "quiet room", as privacy is important. Ideally, it should be separate from the main/busy conference area, and have minimal windows, or curtained windows.
 
 ###<a name="general"></a>General Staff Training
+
+All reports of any nature should be collated and recorded in a single, central location. This enables you to identify patterns that you might otherwise miss at a large or busy event if they've been reported to separate people. This includes presentation issues, things noticed on social media, things observed by your team, and complaints made by attendees or speakers.
 
 ####<a name="presentation"></a>Presentation issues
 
@@ -566,7 +584,7 @@ Resources:
 - [Sarah Milstein: Putting an End to Conferences Dominated by White Men](https://hbr.org/2014/01/theres-no-excuse-for-all-white-male-panels/)
 - [Geek Feminism Wiki: Code of Conduct and Policy Resources](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
 - [Ada Initiative: Example conference booklet](http://adainitiative.org/2012/10/freely-available-conference-booklet-template-designed-to-welcome-women/)
-- [Kiwicon Code of Conduct](https://kiwicon.org/faq/code-of-conduct/) and [FAQs](https://kiwicon.org/faq/#q9)
+- [Kiwicon Code of Conduct](http://2014.kiwicon.org/faq/code-of-conduct/) and [FAQs](http://2014.kiwicon.org/faq/#q9)
 - [Gather Code of Conduct](http://gathergather.co.nz/gatherly-behaviour/)
 - [Ashe Dryden: How to Not Make a Bad Situation Worse](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse)
 - [Kara Sowles: Alcohol and Inclusivity](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
