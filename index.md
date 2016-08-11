@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-##Why should you care?
+## Why should you care?
 
 > Note: This guide was originally written for a New Zealand audience. If you're not from New Zealand, you'll need to substitute Māori and Pasifika with the underrepresented minorities in your area, such as First Nations or black technologists.
 
@@ -15,7 +15,7 @@ If you're running an event in the technology space (or any <abbr title="Science,
 
 Some of you will already be doing a pretty good job. That's awesome. There's always room for improvement. 
 
-##How do you fix it?
+## How do you fix it?
 
 There's no magic fix for this stuff, but you can take steps to gradually improve. 
 
@@ -33,7 +33,7 @@ Both are important - if they don't know you've changed, or can't see a clear sig
 Communicating the changes also helps to transfer ownership of your event's atmosphere and culture to your audience. It's really important that they understand and back your changes, as they're the ones whose actions will, in the end, shape how the event feels for attendees, and its ongoing success.
 
 
-##This guide includes
+## This guide includes
 
 - [Preparation](#preparation)
 	- [Have a diverse organising team](#orgteam)
@@ -73,15 +73,15 @@ Communicating the changes also helps to transfer ownership of your event's atmos
 		- [After the event](#after)             	 	         	 	
 
 
-##<a name="preparation"></a>Proper Preparation Prevents...
+## <a name="preparation"></a>Proper Preparation Prevents...
 
-###<a name="orgteam"></a>Have a diverse organising team
+### <a name="orgteam"></a>Have a diverse organising team
 
 If you don't already have a woman on your organising team, add one. Don't just add them in a token role, either. They'll help to bring perspectives you won't see, and it'll also send a clear message that your team cares about inclusivity.
 
 This also applies to your staff and helps to make them approachable. This is covered in more detail further down.
 
-###<a name="target"></a>Set a target
+### <a name="target"></a>Set a target
 
 Before you start, define what success looks like for your event. Set a long-term goal and a short-term goal.
 
@@ -99,13 +99,13 @@ Check out [this data from WikiNZ](http://legacy.wikinewzealand.org/index-tag=tec
 
 You can download the source data to refine it more for your audience. As census data, it is, of course, self-categorised, so be aware of any biases that may arise, but it may be useful in helping you understand your potential audience.
 
-###<a name="ask"></a>Ask for help
+### <a name="ask"></a>Ask for help
 
 Most communities are willing to help if you ask early in your process, whether that's taking a look over your plans to see if there's any obvious red-flags, or by helping you with outreach to access a more diverse speaker set. 
 
 > Some of these people are asked for help a lot, and generally most organisers expect this to be free. Consider offering to recompense them in some way.
 
-###<a name="ticketing"></a>Think about ticketing
+### <a name="ticketing"></a>Think about ticketing
 
 Pricing and ticketing is hard. Bottom line: you have to cover your costs. However, price is a huge barrier, not just with tickets, but for accommodation, transport, childcare, and more.
 
@@ -117,7 +117,7 @@ There are some creative ways you can make your event more accessible:
 	- Offer 'pay more if you want' to chip in to help cover costs for speakers/attendees from underrepresented groups.
 - Offer student tickets (student must present valid ID at registration desk).
 
-###<a name="tshirts"></a>Nail Your T-shirts
+### <a name="tshirts"></a>Nail Your T-shirts
 
 T-shirts are hugely popular event swag. They're a walking advertisement for how much people love your event. However, they're also really awful if not done well - poorly fitted shirts in inadequate size ranges exclude attendees.
 
@@ -137,7 +137,7 @@ Here's some basics:
 
 The Geek Feminism Wiki has a [really great in-depth article on this - check it out](http://geekfeminism.wikia.com/wiki/T-shirts) (and send it to your designer). 
 
-###<a name="partner"></a>Run Partner events
+### <a name="partner"></a>Run Partner events
 
 Conferences are big events, and can be a bit overwhelming. Sometimes, arranging a partner event with a local organisation can be a great way to make your event more welcoming and help your attendees build a stronger network.
 
@@ -148,7 +148,7 @@ Some events that may work well:
 - A pre-conference breakfast women's meet-up at a local café. You can add an option for this on the registration form, and then make a group table booking, or simply set up a separate meetup booking page.
 - Offer a new attendee meet-and-greet.
 
-###<a name="speakers"></a>Get Diverse Speakers
+### <a name="speakers"></a>Get Diverse Speakers
 
 If you want a diverse audience, you need to start with what you're selling them. If you're a conference, that's your speakers.
 
@@ -160,7 +160,7 @@ You are broadening the pool of speakers you're considering to counter the natura
 
 > What not to do: Release your all-white, all-male speaker line up, and when people call you out on your lack of diversity, approach a couple of women at the last minute, and then blame them when they turn you down.
 
-####<a name="selection"></a>Selection Methods
+#### <a name="selection"></a>Selection Methods
 
 Different events choose speakers using different methods. Generally, you'll either be hand-picking speakers, or using a Call for Papers (CFP), or a combination of the two.
 
@@ -182,7 +182,7 @@ Transparency is incredibly important. People respect honesty, and yet it's one o
 
 > **Important**: Be up front about what, if any, pay or assistance speakers can expect, including flights, accommodation, childcare etc. Some speakers may not wish to take you up on these - it's a great idea to offer the option of donating this back into a scholarship pool, for example.
 
-####<a name="handpick"></a>Hand-picking speakers
+#### <a name="handpick"></a>Hand-picking speakers
 
 In theory, hand-picking speakers should be easy, right? Write down a list of people you want. Make it half men, half women, and make sure it's not all white folks. In reality, it's always more complicated than that. People will always decline for myriad reasons, but here's some things to consider:
 
@@ -201,7 +201,7 @@ In theory, hand-picking speakers should be easy, right? Write down a list of peo
 	1. Having a great AV team who are good at this stuff.
 	2. Making sure the people you're approaching to speak know it. Assure them that their slides will be tested at least 48 hours before the event, and they will have the opportunity to run through their slides at the venue with the audio equipment and slide controls before speaking. This seems small, but it makes a big difference.
 
-####<a name="cfp"></a>Running a Call For Papers (CFP)
+#### <a name="cfp"></a>Running a Call For Papers (CFP)
 
 This can be harder to get right than self-selection. You cannot simply assume that just because you've decided to make an effort that things will get better and that people will realise that. You might like to consider a mix of speaker selection (focussed on  speakers from underrepresented groups) and a CFP to begin with.
 
@@ -250,7 +250,7 @@ Get someone who has never attended your conference to read your CFP. They don't 
 Remember, submitting to a CFP can be a lot of work and can be daunting, especially for someone who has not spoken a lot. Respect their time and make your requirements clear. This will also save you time by improving the quality of applications.
 
 
-#####<a name="choosing"></a>Selecting the Speakers
+##### <a name="choosing"></a>Selecting the Speakers
 
 Blind selection is a great technique to use to remove bias. Many biases we hold are implicit (in other words, we don't even realise we have them).
 
@@ -265,23 +265,23 @@ In a blind selection process, all details for the submitting speakers are anonym
 5. Proposals with an advocate are then discussed with the group, and considered in the framework of a potential conference program. Decisions are then made about accepting or rejecting these talks.
 6. The original 1-2 people then send results and feedback to the applicants. As the people who had watched the videos and read other content, they are in a great position to combine the all the feedback into a great personal response to rejected applicants that still highlights what parts of the application they had loved, and encourages applicants to keep submitting to your conference and other conferences in the future.
 
-###<a name="tangatawhenua"></a>Talk to the tangata whenua
+### <a name="tangatawhenua"></a>Talk to the tangata whenua
 
 New Zealand is a colonised nation. When you're running an event, it is courteous to speak to the tangata whenua for the area your event is held in. You should extend an invitation to open your event with a mihi. 
 
 Don't leave this until the last minute!
 
-##<a name="environment"></a>Conference environment - venue, audience, code of conduct
+## <a name="environment"></a>Conference environment - venue, audience, code of conduct
 
 The conference environment, from the venue, to food, to the atmosphere, is a huge factor in your event being welcoming to attendees from underrepresented groups. Some of this you can control, and some of it is behaviour/culture you need to encourage (and set an expectation for) from your attendees.
 
-###<a name="venue"></a>Venue selection
+### <a name="venue"></a>Venue selection
 
 This can be a hard one, as there are many other factors to weigh in - everything from cost to availability and more.
 
 When you're assessing venues, here's a checklist of things to consider which can impact on how welcoming your event is to diverse attendees.
 
-####<a name="bathrooms"></a>Bathrooms
+#### <a name="bathrooms"></a>Bathrooms
 
 This is incredibly important for attendees with non-binary gender identities.
 
@@ -292,7 +292,7 @@ This is incredibly important for attendees with non-binary gender identities.
 
 You can [add signs to existing bathrooms](https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=https%3A%2F%2Finstagram.com%2Fp%2F8V2P8SIeit%2Fmedia&width=810) to reinforce that anyone who feels it is the right bathroom for them is welcome to use it.
 
-####<a name="accessibility"></a>Accessibility 
+#### <a name="accessibility"></a>Accessibility 
 
 Your venue needs to be accessible to people in wheelchairs, on crutches, or with other physical disabilities. 
 
@@ -308,7 +308,7 @@ Many venues state that they are 'accessible', but the accessible route provides 
 
 For more tips, [check out this excellent article](https://modelviewculture.com/pieces/organizing-more-accessible-tech-events).
 
-####<a name="catering"></a>Catering
+#### <a name="catering"></a>Catering
 
 Check if they can provide for dietary requirements in an acceptable way. This means: 
 
@@ -320,7 +320,7 @@ Check if they can provide for dietary requirements in an acceptable way. This me
 - Help them by identifying local restaurants and food places that cater for their dietary requirements, and consider offering them access to a fridge on-site to store their own food.
 - If you're providing special meals, try not to make a big deal of it. Quietly communicate with the people where they should be to receive their meal so they understand what the process is. This can be done at check-in. Imagine your event at maximum chaos; you probably won't be able to reliably track down these people, so ensure that this is communicated at check-in (preferable) or through clear signage (last resort). Remember that signage that is too low down will not be able to be seen through a crowd.
 
-####<a name="deaf"></a>Deaf access
+#### <a name="deaf"></a>Deaf access
 
 Does anything in your venue preclude you from catering to Deaf attendees? Ideally, you need to be able to: 
 
@@ -332,7 +332,7 @@ Does anything in your venue preclude you from catering to Deaf attendees? Ideall
 - [Consider offering real-time captioning](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/).
 
 
-####<a name="room"></a>Room for extra facilities 
+#### <a name="room"></a>Room for extra facilities 
 
 Does the venue have room to support extra facilities like: 
 
@@ -342,7 +342,7 @@ Does the venue have room to support extra facilities like:
 - Emergency-room, where someone can be taken if they've been harassed, are having a panic attack, or similar.
 
 
-###<a name="creche"></a>Crèche and breastfeeding areas
+### <a name="creche"></a>Crèche and breastfeeding areas
 
 Offering on-site childcare is becoming increasingly common. It makes your event a lot more accessible if you can offer to look after kids, especially under 5's, while talks are on.
 
@@ -359,7 +359,7 @@ If you don't have a crèche, you should at minimum have an area where breastfeed
 
 \*We're not lawyers, so do check with one of them.
 
-###<a name="alcohol"></a>Alcohol
+### <a name="alcohol"></a>Alcohol
 
 It's really important to consider the impact of alcohol at both your event, and accompanying events, such as after parties.
 
@@ -384,13 +384,13 @@ To make your event more welcoming:
 
 Consider restricting the amount of alcohol available. I know we expect everyone to be adults, but the reality proves some people can't be. Offering a number of drinks tokens to attendees instead of a straight open bar caters for those who will drink reasonably as well as curtailing excess.
 
-###<a name="afterparties"></a>Afterparties
+### <a name="afterparties"></a>Afterparties
 
 In addition to considering how you choose to serve alcohol, remember that for most people, your afterparty is still work-related. They're primarily there to meet interesting people and talk to them about cool things. You want them to plot amazing projects they'll collaborate on until the small hours of the morning and leave inspired.
 
 The quickest way to kill this is to have the music up too loud. It's a small difference between 'pleasant background' and 'I don't want to be here shouty shouty party' levels. Go for the first one.
 
-###<a name="yourteam"></a>Your team
+### <a name="yourteam"></a>Your team
 
 Your team are an incredibly important part of how welcoming your event is. You should aim for your team on the day to be representative of your intended audience - in other words, you want a diverse team, as well as a diverse audience.
 
@@ -405,7 +405,7 @@ Your staff should all be trained on the basics, including:
 - Managing your code of conduct.
 - Looking after the needs of any attendees who have special requirements, such as disabilities or different food requests.
 
-##<a name="coc"></a>Code of Conduct 
+## <a name="coc"></a>Code of Conduct 
 
 _This section shamelessly borrows from the excellent folks at the Geek Feminism Wiki_
 
@@ -423,7 +423,7 @@ A code of conduct does neither of these things. It exists to:
 
 Having a code of conduct doesn't guarantee good behaviour, but it tells people you care, and that they can come to you with a problem and trust you to deal with it appropriately.
 
-###<a name="include"></a>What to include
+### <a name="include"></a>What to include
 
 There are many example code of conducts and anti-harassment policies available. We recommend starting with the Geek Feminism wiki's example policy, which has a CC-zero licence, meaning you can use and adapt it as you wish.
 
@@ -435,7 +435,7 @@ If you're new to this, it can be a good idea to stick pretty close to the origin
 
 It's not a great idea to completely roll your own. It's tempting to just go with 'Be nice', but unfortunately, most people's definition of 'nice' is pretty varied, and doesn't align with your own or that of marginalised people in your community. 'Be nice' is really hard to enforce when things go wrong, and doesn't give people who've been burned before a lot of confidence.
 
-###<a name="display"></a>Where to display it
+### <a name="display"></a>Where to display it
 
 Once you've written it, you need to display it. Here's some ideas of where you might like to put it:
 
@@ -447,7 +447,7 @@ Once you've written it, you need to display it. Here's some ideas of where you m
 - As part of the event swag, either in the booklet or on their lanyard card.
 - On posters around the venue.
 
-###<a name="introduce"></a>Introducing your event and your code of conduct
+### <a name="introduce"></a>Introducing your event and your code of conduct
 
 At the beginning of your (undoubtedly excellent) event, you'll probably be welcoming your attendees and setting the scene for your conference. It's really important to discuss your code of conduct at this time. You need to:
 
@@ -457,7 +457,7 @@ At the beginning of your (undoubtedly excellent) event, you'll probably be welco
 - Ensure reporting channels are clear "any of our team can help you if you'd like to report a breach of our code of conduct. You can find them by [details]".
 - You may also want to mention potential repercussions. Your call.
 
-###<a name="training"></a>Training your team before the event
+### <a name="training"></a>Training your team before the event
 
 Fortunately, many times you will not have any incidents that need to be managed. However, in the event of one occurring, in order for a code of conduct to be effective, your team needs to know how to implement it. 
 
@@ -467,11 +467,11 @@ In general, you should designate a person/people as the official code of conduct
 
 You should assign a room as a safe room where anyone in distress or who wants to discuss a confidential code of conduct-related manner can be taken. This room might also double as a first-aid room, but should not be your general "quiet room", as privacy is important. Ideally, it should be separate from the main/busy conference area, and have minimal windows, or curtained windows.
 
-###<a name="general"></a>General Staff Training
+### <a name="general"></a>General Staff Training
 
 All reports of any nature should be collated and recorded in a single, central location. This enables you to identify patterns that you might otherwise miss at a large or busy event if they've been reported to separate people. This includes presentation issues, things noticed on social media, things observed by your team, and complaints made by attendees or speakers.
 
-####<a name="presentation"></a>Presentation issues
+#### <a name="presentation"></a>Presentation issues
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. You, or a staff member, may like to acknowledge the issue at the conclusion of the talk. This can be as simple as "I'm sorry for the inappropriate comment in that presentation. I'd like to remind everyone of our code of conduct".
 
@@ -481,11 +481,11 @@ You should also try to assign a person to watch all talks and also the conferenc
 
 Make sure this person understands that [their job is not to get defensive](http://www.ashedryden.com/blog/how-to-not-make-a-bad-situation-worse).
 
-####Recommended response:
+#### Recommended response:
 
 "Thanks for letting us know. We'll follow this up."
 
-####<a name="receive"></a>Receiving a report
+#### <a name="receive"></a>Receiving a report
 
 Anyone in your team must be able to take a report from a conference attendee. Reports must be taken for all incidents, regardless of the level of details the complainant is able to provide (including not being able to identify offending parties)
 
@@ -513,13 +513,13 @@ Once the report has been taken, your team member should:
 
 > **Important**: Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
-####<a name="verbal"></a>Issuing verbal warnings
+#### <a name="verbal"></a>Issuing verbal warnings
 
 Every member of your team has ownership for conference safety and should feel confident issuing warnings to attendees, presenters, or other staff members for inappropriate behaviour.
 
 All verbal warnings should also be reported to a central location as soon as possible, typically via text message or email.
 
-####<a name="document"></a>Documenting a reported incident
+#### <a name="document"></a>Documenting a reported incident
 
 A report should be made of any breaches of the code of conduct, whether they are reported by attendees, or a result of verbal warnings issued by staff for observed behaviour. 
 
@@ -533,7 +533,7 @@ Reports should include as much of the following as possible:
 - Your identity.
 - Other people involved in the incident.
 
-####<a name="dealing"></a>Dealing with the issue
+#### <a name="dealing"></a>Dealing with the issue
 
 Either you or your representative(s) will be responsible for managing the reported incidents. Before the event, you need to decide what courses of action can take for breaches. These can include:
 
@@ -558,7 +558,7 @@ You can choose to come up with creative ways to manage minor infractions, or to 
 >
 > Note: Techniques such as this are not recommended for anything more than a minor infraction.
 
-####<a name="after"></a>After the event
+#### <a name="after"></a>After the event
 
 If you have an incident at the event, you may need to complete some post-incident response management. Think of this like an outage post-mortem. Not every incident will warrant this, however high-profile incidents (removal of speakers, incidents that caused social media outcry) will likely benefit from this.
 
