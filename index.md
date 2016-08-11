@@ -304,6 +304,8 @@ Many venues state that they are 'accessible', but the accessible route provides 
 - Check if there is enough seating in break-out spaces for those who are pregnant or tire easily. 
 - Consider whether [speakers can access the stage](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences).
 
+For more tips, [check out this excellent article](https://modelviewculture.com/pieces/organizing-more-accessible-tech-events).
+
 ####<a name="catering"></a>Catering
 
 Check if they can provide for dietary requirements in an acceptable way. This means: 
