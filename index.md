@@ -5,6 +5,8 @@ layout: default
 
 ##Why should you care?
 
+> Note: This guide was originally written for a New Zealand audience. If you're not from New Zealand, you'll need to substitute Māori and Pasifika with the underrepresented minorities in your area, such as First Nations or black technologists.
+
 We want and need as many smart people as possible working in technology. This includes women and people from other communities, such as Māori, Pasifika, <abbr title="Lesbian Gay Bisexual Trans Queer Intersex">LGBTQI</abbr>, and disabled groups. It especially includes women who belong to one or more of those communities. Our products, our companies and our teams are stronger when they are more inclusive. Right now, we're doing a bad job of this.
 
 Events in our industry are often unpleasant for women, sometimes to the point of being hostile.
