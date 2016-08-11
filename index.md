@@ -290,6 +290,8 @@ This is incredibly important for attendees with non-binary gender identities.
 - Ensure that the availability of these is clearly communicated. 
 - Ensure adequate disabled bathrooms.
 
+You can [add signs to existing bathrooms](https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=https%3A%2F%2Finstagram.com%2Fp%2F8V2P8SIeit%2Fmedia&width=810) to reinforce that anyone who feels it is the right bathroom for them is welcome to use it.
+
 ####<a name="accessibility"></a>Accessibility 
 
 Your venue needs to be accessible to people in wheelchairs, on crutches, or with other physical disabilities. 
