@@ -368,6 +368,8 @@ To make your event more welcoming:
 - Make sure there are safe ways for attendees to get home (organise cabs etc).
 - Advertise you're doing this! It makes your event more welcoming to non-drinkers.
 
+Consider restricting the amount of alcohol available. I know we expect everyone to be adults, but the reality proves some people can't be. Offering a number of drinks tokens to attendees instead of a straight open bar caters for those who will drink reasonably as well as curtailing excess.
+
 ###<a name="afterparties"></a>Afterparties
 
 In addition to considering how you choose to serve alcohol, remember that for most people, your afterparty is still work-related. They're primarily there to meet interesting people and talk to them about cool things. You want them to plot amazing projects they'll collaborate on until the small hours of the morning and leave inspired.
