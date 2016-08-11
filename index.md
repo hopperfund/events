@@ -47,6 +47,7 @@ Communicating the changes also helps to transfer ownership of your event's atmos
 		- [Hand-picking speakers](#handpick)
 		- [Running a call for papers (CFP)](#cfp)
 		- [Selecting the speakers](#choosing)
+	- [Talk to the tangata whenua](#tangatawhenua)
 - [Conference environment](#environment)
 	- [Venue selection](#venue)
 	- [Bathrooms](#bathrooms)
@@ -262,6 +263,12 @@ In a blind selection process, all details for the submitting speakers are anonym
 4. The proposals are sorted into categories, and if someone feels strongly enough to advocate for or against a talk, that talk is tagged for discussion.
 5. Proposals with an advocate are then discussed with the group, and considered in the framework of a potential conference program. Decisions are then made about accepting or rejecting these talks.
 6. The original 1-2 people then send results and feedback to the applicants. As the people who had watched the videos and read other content, they are in a great position to combine the all the feedback into a great personal response to rejected applicants that still highlights what parts of the application they had loved, and encourages applicants to keep submitting to your conference and other conferences in the future.
+
+###<a name="tangatawhenua"></a>Talk to the tangata whenua
+
+New Zealand is a colonised nation. When you're running an event, it is courteous to speak to the tangata whenua for the area your event is held in. You should extend an invitation to open your event with a mihi. 
+
+Don't leave this until the last minute!
 
 ##<a name="environment"></a>Conference environment - venue, audience, code of conduct
 
