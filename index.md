@@ -123,6 +123,7 @@ T-shirts are hugely popular event swag. They're a walking advertisement for how 
 
 Here's some basics:
 
+- Don't just offer t-shirts. Offer a [sweet tote bag with your branding](https://twitter.com/ksuyin/status/760969571163512832) as an alternative.
 - Offer men's and women's style shirts. Never do unisex ones. Unisex actually means men's.
 - Call them 'straight fit' and 'curvy fit', rather than 'mens' and 'womens' because not all men want men's shirts and not all women want women's shirts.
 - Include a size guide, not just a list of sizes. This means chest measurements. Usually, your supplier will have these. Either link to theirs, or code up your own. Don't skip it.
