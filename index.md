@@ -401,7 +401,7 @@ If you can't cater for all sizes, provide an alternative - give a lot of notice 
 Your staff should all be trained on the basics, including:
 
 - Using chosen gender pronouns, or using neutral gender pronouns.
-- Not using sexist, ableist, cis-sexist, or homophobic language. For example, 'tranny', 'lame', 'retarded', 'gypped'.
+- Not using sexist, ableist, cis-sexist, or homophobic language. For example, 'tr*nny', 'l*me', 'retarded', 'gypped'.
 - Managing your code of conduct.
 - Looking after the needs of any attendees who have special requirements, such as disabilities or different food requests.
 
