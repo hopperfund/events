@@ -455,6 +455,8 @@ You should assign a room as a safe room where anyone in distress or who wants to
 
 ###<a name="general"></a>General Staff Training
 
+All reports of any nature should be collated and recorded in a single, central location. This enables you to identify patterns that you might otherwise miss at a large or busy event if they've been reported to separate people. This includes presentation issues, things noticed on social media, things observed by your team, and complaints made by attendees or speakers.
+
 ####<a name="presentation"></a>Presentation issues
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. You, or a staff member, may like to acknowledge the issue at the conclusion of the talk. This can be as simple as "I'm sorry for the inappropriate comment in that presentation. I'd like to remind everyone of our code of conduct".
