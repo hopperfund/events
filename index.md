@@ -267,7 +267,16 @@ In a blind selection process, all details for the submitting speakers are anonym
 
 ### <a name="tangatawhenua"></a>Talk to the tangata whenua
 
-New Zealand is a colonised nation. When you're running an event, it is courteous to speak to the tangata whenua for the area your event is held in. You should extend an invitation to open your event with a mihi. 
+New Zealand is a colonised nation. At bare minimum, make an effort to incorporate Māori language into your welcomes, and ensure it's pronounced correctly.
+
+Ideally, you should invite the local tangata whenua to play a part in your event. You can expect to pay them for this service. These services may include:
+
+- Mihi
+- Karakia for food
+- Closing karakia
+- Waiata for speakers
+
+If you're not sure who the best person to contact is, speak to your local council and ask them for a recommendation.
 
 Don't leave this until the last minute!
 
